@@ -1,0 +1,65 @@
+HOW IT WORKS:
+
+* plist file:
+    1) filename has to be com.michael.{FILENAME}.plist
+    2) must fill out the details, label has to be the same as filename 
+        * Example shown below
+    3) has to be located in the folder: "Library/LaunchAgent"
+        * you do this by copying from VScode to LaunchAgent folder via "cp /Users/michael/Projects/Kalshi-Market-Data/NBA/runtime/com.michael.{FILENAME}.plist ~/Library/LaunchAgents/"
+    4) when making changes to the plist file, first make it in VScode and then copy it to LaunchAgents folder
+
+* running program manually in terminal
+    1) check your used id via "id -u"
+    2) load the service via "launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.michael.{FILENAME}.plist"
+        * bootstrap is REQUIRED for the scheduler to run automatically at its scheduled time
+    3) kickstart (run) the service via "launchctl kickstart -k gui/$(id -u)/com.michael.{FILENAME}"
+        * kickstart is NOT REQUIRED, it just runs the program RIGHT NOW manually
+    4) verify it is running via "launchctl list | grep {FILENAME}"
+        * should return scheduler_test (this tells you that the plist is known and will run next time, not that its currently running)
+    5) verify next run time via "launchctl print gui/$(id -u)/com.michael.{FILENAME}"
+
+* stopping scheduler service
+    1) unload (stop) service via "launchctl bootout gui/$(id -u)/com.michael.{FILENAME}"
+    2) verify it stopped via "launchctl list | grep {FILENAME}"
+        * should return nothing
+    3) optional, remove the plist file via "sudo rm ~/Library/LaunchAgents/com.michael.{FILENAME}.plist"
+
+
+* EXAMPLE plist file *
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+  <key>Label</key>
+  <string>com.michael.scheduler_test</string>
+
+  <key>ProgramArguments</key>   ****** this is where the terminal arguments are ******
+  <array>
+    <string>/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python</string>     ***** argument 1 *****
+    <string>/Users/michael/Projects/Kalshi-Trader-Directional/scheduler_NBA.py</string>     ***** argument 2 *****
+  </array>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>6</integer>     **** every day at hour 6 *****
+    <key>Minute</key>
+    <integer>0</integer>    **** minute 0 ****
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/Users/michael/Projects/Kalshi-Trader-Directional/runtime/logs/scheduler_nba.out</string>     **** file where print statements go ****
+
+  <key>StandardErrorPath</key>
+  <string>/Users/michael/Projects/Kalshi-Trader-Directional/runtime/logs/scheduler_nba.err</string>     **** file where error messages go ****
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin:/usr/local/bin:/usr/bin:/bin</string>
+    <key>PYTHONPATH</key>
+    <string>/Users/michael/Projects/Kalshi-Trader-Directional/.venv/lib/python3.14/site-packages</string>
+  </dict>
+</dict>
+</plist>
