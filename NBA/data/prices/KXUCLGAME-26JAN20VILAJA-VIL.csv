@@ -1,0 +1,15 @@
+ts,price_yes,price_no,3sec_norm_OFI,3sec_yes_vol,3sec_no_vol,3sec_total_vol,3sec_note,5sec_norm_OFI,5sec_yes_vol,5sec_no_vol,5sec_total_vol,5sec_note,30sec_norm_OFI,30sec_yes_vol,30sec_no_vol,30sec_total_vol,30sec_note,1sec_yes_vol,1sec_no_vol,1sec_total_vol,60sec_yes_vol,60sec_no_vol,60sec_total_vol
+ts,price_yes,price_no,3sec_norm_OFI,3sec_yes_vol,3sec_no_vol,3sec_total_vol,3sec_note,5sec_norm_OFI,5sec_yes_vol,5sec_no_vol,5sec_total_vol,5sec_note,30sec_norm_OFI,30sec_yes_vol,30sec_no_vol,30sec_total_vol,30sec_note,1sec_yes_vol,1sec_no_vol,1sec_total_vol,60sec_yes_vol,60sec_no_vol,60sec_total_vol
+1768945225,29,69,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1768945227,30,69,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1768945228,30,69,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1768945229,30,69,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1768945230,31,68,0,16,0,16,low_activity,0,16,0,16,low_activity,0,16,0,16,low_activity,16,0,16,16,0,16
+1768945231,31,68,0,16,0,16,low_activity,0,16,0,16,low_activity,0,16,0,16,low_activity,0,0,0,16,0,16
+1768945232,31,68,0,16,0,16,low_activity,0,16,0,16,low_activity,0,16,0,16,low_activity,0,0,0,16,0,16
+1768945233,31,68,0,0,0,0,no_volume,0,16,0,16,low_activity,0,16,0,16,low_activity,0,0,0,16,0,16
+1768945234,31,68,0,0,0,0,no_volume,0,16,0,16,low_activity,0,16,0,16,low_activity,0,0,0,16,0,16
+1768945235,31,68,0,0,0,0,no_volume,0,0,0,0,no_volume,0,16,0,16,low_activity,0,0,0,16,0,16
+1768945236,31,68,0,0,0,0,no_volume,0,0,0,0,no_volume,0,16,0,16,low_activity,0,0,0,16,0,16
+1768945237,31,68,0,0,0,0,no_volume,0,0,0,0,no_volume,0,16,0,16,low_activity,0,0,0,16,0,16
+1768945238,31,68,0,0,0,0,no_volume,0,0,0,0,no_volume,0,16,0,16,low_activity,0,0,0,16,0,16
