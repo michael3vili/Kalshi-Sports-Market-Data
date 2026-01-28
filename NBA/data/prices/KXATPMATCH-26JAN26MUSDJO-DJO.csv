@@ -1,0 +1,12 @@
+ts,price_yes,price_no,3sec_norm_OFI,3sec_yes_vol,3sec_no_vol,3sec_total_vol,3sec_note,5sec_norm_OFI,5sec_yes_vol,5sec_no_vol,5sec_total_vol,5sec_note,30sec_norm_OFI,30sec_yes_vol,30sec_no_vol,30sec_total_vol,30sec_note,1sec_yes_vol,1sec_no_vol,1sec_total_vol,60sec_yes_vol,60sec_no_vol,60sec_total_vol
+1769573811,72,27,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1769573813,72,27,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1769573814,72,27,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1769573815,72,27,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0
+1769573816,72,27,0,600,0,600,low_activity,0,600,0,600,low_activity,0,600,0,600,low_activity,606,0,606,606,0,606
+1769573817,72,27,0,723,0,723,low_activity,0,723,0,723,low_activity,0,723,0,723,low_activity,123,0,123,729,0,729
+1769573818,72,27,0,723,0,723,low_activity,0,723,0,723,low_activity,0,723,0,723,low_activity,0,0,0,729,0,729
+1769573819,72,27,0,123,0,123,low_activity,0,723,0,723,low_activity,0,723,0,723,low_activity,0,0,0,729,0,729
+1769573820,72,27,0,0,0,0,no_volume,0,723,0,723,low_activity,0,723,0,723,low_activity,0,0,0,729,0,729
+1769573821,72,27,0,0,0,0,no_volume,0,123,0,123,low_activity,0,723,0,723,low_activity,0,0,0,729,0,729
+1769573822,72,27,0,80,0,80,low_activity,0,80,0,80,low_activity,0,803,0,803,low_activity,0,0,0,809,0,809
