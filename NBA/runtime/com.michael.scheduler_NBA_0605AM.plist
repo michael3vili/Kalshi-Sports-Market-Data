@@ -6,6 +6,8 @@
   <string>com.michael.scheduler_NBA_0605AM</string>
   <key>ProgramArguments</key>
   <array>
+    <string>/usr/bin/caffeinate</string>
+    <string>-i</string>
     <string>/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python</string>
     <string>/Users/michael/Projects/Kalshi-Trader-Directional/scheduler_NBA.py</string>
   </array>

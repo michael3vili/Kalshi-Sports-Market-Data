@@ -6,3 +6,25 @@ Run time of job "run_script (trigger: date[2026-01-18 23:45:00 UTC], next run at
 Run time of job "run_script (trigger: date[2026-01-18 23:45:00 UTC], next run at: 2026-01-18 23:45:00 UTC)" was missed by 0 days 00:44:35.631028
 Run time of job "run_script (trigger: date[2026-01-18 23:45:00 UTC], next run at: 2026-01-18 23:45:00 UTC)" was missed by 0 days 00:44:35.631323
 Run time of job "run_script (trigger: date[2026-01-18 23:45:00 UTC], next run at: 2026-01-18 23:45:00 UTC)" was missed by 0 days 00:44:35.631532
+Traceback (most recent call last):
+  File "/Users/michael/Projects/Kalshi-Trader-Directional/scheduler_NBA.py", line 146, in <module>
+    main()
+    ~~~~^^
+  File "/Users/michael/Projects/Kalshi-Trader-Directional/scheduler_NBA.py", line 137, in main
+    trigger=DateTrigger(run_date=markets['game_start'].max() + timedelta(minutes=15))
+  File "/Users/michael/Projects/Kalshi-Trader-Directional/.venv/lib/python3.14/site-packages/apscheduler/triggers/date.py", line 22, in __init__
+    self.run_date = convert_to_datetime(run_date, timezone, "run_date")
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/michael/Projects/Kalshi-Trader-Directional/.venv/lib/python3.14/site-packages/apscheduler/util.py", line 195, in convert_to_datetime
+    return localize(datetime_, tz)
+  File "/Users/michael/Projects/Kalshi-Trader-Directional/.venv/lib/python3.14/site-packages/apscheduler/util.py", line 485, in localize
+    return normalize(dt.replace(tzinfo=tzinfo))
+  File "/Users/michael/Projects/Kalshi-Trader-Directional/.venv/lib/python3.14/site-packages/apscheduler/util.py", line 478, in normalize
+    return datetime.fromtimestamp(dt.timestamp(), dt.tzinfo)
+                                  ~~~~~~~~~~~~^^
+  File "pandas/_libs/tslibs/nattype.pyx", line 54, in pandas._libs.tslibs.nattype._make_error_func.f
+ValueError: NaTType does not support timestamp
+Run time of job "run_script (trigger: date[2026-02-01 20:15:00 UTC], next run at: 2026-02-01 20:15:00 UTC)" was missed by 0 days 00:48:13.140463
+Run time of job "run_script (trigger: date[2026-02-01 20:15:00 UTC], next run at: 2026-02-01 20:15:00 UTC)" was missed by 0 days 00:48:13.141151
+Run time of job "run_script (trigger: date[2026-02-01 20:45:00 UTC], next run at: 2026-02-01 20:45:00 UTC)" was missed by 0 days 00:18:13.141416
+Run time of job "run_script (trigger: date[2026-02-01 20:45:00 UTC], next run at: 2026-02-01 20:45:00 UTC)" was missed by 0 days 00:18:13.141616
