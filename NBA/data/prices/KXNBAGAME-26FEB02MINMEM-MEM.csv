@@ -240,3 +240,12 @@ ts,price_yes,price_no,3sec_norm_OFI,3sec_yes_vol,3sec_no_vol,3sec_total_vol,3sec
 1770077939,27,72,0,107,0,107,low_activity,0,107,0,107,low_activity,0,390,0,390,low_activity,80,0,80,7118,0,7118
 1770077940,27,72,0,235,0,235,low_activity,0,235,0,235,low_activity,1.0,518,0,518,ok_volume,128,0,128,7246,0,7246
 1770077941,27,72,0,208,0,208,low_activity,0,235,0,235,low_activity,1.0,518,0,518,ok_volume,0,0,0,7246,0,7246
+1770077942,27,72,0,128,0,128,low_activity,0,235,0,235,low_activity,1.0,518,0,518,ok_volume,0,0,0,7242,0,7242
+1770077943,27,72,0,0,0,0,no_volume,0,208,0,208,low_activity,1.0,518,0,518,ok_volume,0,0,0,7210,0,7210
+1770077944,27,72,0,0,0,0,no_volume,0,128,0,128,low_activity,0,268,0,268,low_total_volume,0,0,0,7110,0,7110
+1770077945,27,72,0,0,0,0,no_volume,0,0,0,0,no_volume,0,268,0,268,low_total_volume,0,0,0,6951,0,6951
+1770077946,27,72,0,0,0,0,no_volume,0,0,0,0,no_volume,0,235,0,235,low_activity,0,0,0,6951,0,6951
+1770077947,27,72,0,0,0,0,no_volume,0,0,0,0,no_volume,0,235,0,235,low_activity,0,0,0,657,0,657
+1770077948,27,72,0,0,0,0,no_volume,0,0,0,0,no_volume,0,235,0,235,low_activity,0,0,0,654,0,654
+1770077949,27,72,0,0,0,0,no_volume,0,0,0,0,no_volume,0,235,0,235,low_activity,0,0,0,654,0,654
+1770077950,27,72,0,0,0,0,no_volume,0,0,0,0,no_volume,0,235,0,235,low_activity,0,0,0,654,0,654
