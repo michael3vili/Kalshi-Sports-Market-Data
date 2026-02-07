@@ -610,3 +610,39 @@ KXNBAGAME-26FEB05BKNORL-BKN | 2026-02-05 23:45:00+00:00 |__main__:run_script | (
 KXNBAGAME-26FEB05WASDET-WAS | 2026-02-05 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB05WASDET-WAS',)
 KXNBAGAME-26FEB05WASDET-DET | 2026-02-05 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB05WASDET-DET',)
 d926634456a043f0998b7d27505ff39d | 2026-02-06 06:30:00+00:00 |__main__:stop_scheduler | ()
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05BKNORL-BKN']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05BKNORL-ORL']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05WASDET-DET']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05WASDET-WAS']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05CHITOR-CHI']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05CHITOR-TOR']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05UTAATL-ATL']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05UTAATL-UTA']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05CHAHOU-CHA']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05CHAHOU-HOU']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05SASDAL-DAL']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05SASDAL-SAS']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05GSWPHX-GSW']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05GSWPHX-PHX']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05PHILAL-LAL']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26FEB05PHILAL-PHI']
+SCHEDULER STOPPED @ 2026-02-05 22:30:00.029712
+Starting scheduler at 2026-02-06 14:05:05.674309+00:00 UTC
+getting markets... (attempt 1/6)
+markets found
+
+CURRENT TIME: 2026-02-06 06:05:06.051002
+=== SCHEDULED JOBS ===
+KXNBAGAME-26FEB06MEMPOR-POR | 2026-02-07 02:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06MEMPOR-POR',)
+KXNBAGAME-26FEB06MEMPOR-MEM | 2026-02-07 02:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06MEMPOR-MEM',)
+KXNBAGAME-26FEB06LACSAC-SAC | 2026-02-07 02:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06LACSAC-SAC',)
+KXNBAGAME-26FEB06LACSAC-LAC | 2026-02-07 02:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06LACSAC-LAC',)
+KXNBAGAME-26FEB06INDMIL-MIL | 2026-02-07 00:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06INDMIL-MIL',)
+KXNBAGAME-26FEB06INDMIL-IND | 2026-02-07 00:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06INDMIL-IND',)
+KXNBAGAME-26FEB06NOPMIN-NOP | 2026-02-07 00:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06NOPMIN-NOP',)
+KXNBAGAME-26FEB06NOPMIN-MIN | 2026-02-07 00:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06NOPMIN-MIN',)
+KXNBAGAME-26FEB06MIABOS-MIA | 2026-02-07 00:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06MIABOS-MIA',)
+KXNBAGAME-26FEB06MIABOS-BOS | 2026-02-07 00:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06MIABOS-BOS',)
+KXNBAGAME-26FEB06NYKDET-NYK | 2026-02-07 00:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06NYKDET-NYK',)
+KXNBAGAME-26FEB06NYKDET-DET | 2026-02-07 00:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26FEB06NYKDET-DET',)
+f87858de840748ecb3b8454f39f3c4dd | 2026-02-07 06:30:00+00:00 |__main__:stop_scheduler | ()
