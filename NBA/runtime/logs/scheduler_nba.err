@@ -28,3 +28,5 @@ Run time of job "run_script (trigger: date[2026-02-01 20:15:00 UTC], next run at
 Run time of job "run_script (trigger: date[2026-02-01 20:15:00 UTC], next run at: 2026-02-01 20:15:00 UTC)" was missed by 0 days 00:48:13.141151
 Run time of job "run_script (trigger: date[2026-02-01 20:45:00 UTC], next run at: 2026-02-01 20:45:00 UTC)" was missed by 0 days 00:18:13.141416
 Run time of job "run_script (trigger: date[2026-02-01 20:45:00 UTC], next run at: 2026-02-01 20:45:00 UTC)" was missed by 0 days 00:18:13.141616
+Python(33454) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(33455) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.

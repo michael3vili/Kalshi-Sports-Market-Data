@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.michael.git_sync_0600AM</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>-c</string>
+    <string>cd /Users/michael/Projects/Kalshi-Market-Data && git pull && git add -A && git commit -m "Auto-sync: $(date '+%Y-%m-%d %H:%M:%S')" && git push</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>6</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/michael/Projects/Kalshi-Market-Data/runtime/logs/git_sync.out</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/michael/Projects/Kalshi-Market-Data/runtime/logs/git_sync.err</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/usr/local/bin:/usr/bin:/bin:/usr/local/git/bin</string>
+    <key>HOME</key>
+    <string>/Users/michael</string>
+  </dict>
+</dict>
+</plist>
