@@ -5,7 +5,7 @@ HOW IT WORKS:
     2) must fill out the details, label has to be the same as filename 
         * Example shown below
     3) has to be located in the folder: "Library/LaunchAgent"
-        * you do this by copying from VScode to LaunchAgent folder via "cp /Users/michael/Projects/Kalshi-Market-Data/NBA/runtime/com.michael.{FILENAME}.plist ~/Library/LaunchAgents/"
+        * you do this by copying from VScode to LaunchAgent folder via "cp /Users/michael/Projects/Kalshi-Market-Data/runtime/com.michael.{FILENAME}.plist ~/Library/LaunchAgents/"
     4) when making changes to the plist file, first make it in VScode and then copy it to LaunchAgents folder
 
 * running program manually in terminal
