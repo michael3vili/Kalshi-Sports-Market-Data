@@ -1153,3 +1153,38 @@ Already up to date.
  create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR16SASLAC-LAC.csv
  create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR16SASLAC-SAS.csv
 Already up to date.
+[main 2d58d71] Auto-sync: 2026-03-18 06:00:05
+ 42 files changed, 436648 insertions(+), 222031 deletions(-)
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17CLEMIL-CLE.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17CLEMIL-MIL.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17DETWAS-DET.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17DETWAS-WAS.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17INDNYK-IND.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17INDNYK-NYK.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17MIACHA-CHA.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17MIACHA-MIA.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17OKCORL-OKC.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17OKCORL-ORL.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17PHIDEN-DEN.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17PHIDEN-PHI.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17PHXMIN-MIN.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17PHXMIN-PHX.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17SASSAC-SAC.csv
+ create mode 100644 NBA/data/prices/KXNBAGAME-26MAR17SASSAC-SAS.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17CLEMIL-CLE.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17CLEMIL-MIL.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17DETWAS-DET.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17DETWAS-WAS.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17INDNYK-IND.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17INDNYK-NYK.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17MIACHA-CHA.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17MIACHA-MIA.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17OKCORL-OKC.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17OKCORL-ORL.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17PHIDEN-DEN.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17PHIDEN-PHI.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17PHXMIN-MIN.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17PHXMIN-PHX.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17SASSAC-SAC.csv
+ create mode 100644 NBA/data/trades/TRADES_KXNBAGAME-26MAR17SASSAC-SAS.csv
+Already up to date.
