@@ -1541,3 +1541,681 @@ RUN THIS:
 ************
 
 Launching aggregator...
+  KXNCAAMBGAME-26MAR18GWUVU-UVU: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNCAAMBGAME-26MAR18GWUVU-GW: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNCAAMBGAME-26MAR18JOESCSU-JOES: collection starts at 2026-03-18 19:30:00 (tipoff ts=1773888300)
+  KXNCAAMBGAME-26MAR18JOESCSU-CSU: collection starts at 2026-03-18 19:30:00 (tipoff ts=1773888300)
+  KXNCAAMBGAME-26MAR18UICCAL-UIC: collection starts at 2026-03-18 19:30:00 (tipoff ts=1773888300)
+  KXNCAAMBGAME-26MAR18UICCAL-CAL: collection starts at 2026-03-18 19:30:00 (tipoff ts=1773888300)
+  KXNCAAMBGAME-26MAR18SHSUUNM-UNM: collection starts at 2026-03-18 17:30:00 (tipoff ts=1773881100)
+  KXNCAAMBGAME-26MAR18SHSUUNM-SHSU: collection starts at 2026-03-18 17:30:00 (tipoff ts=1773881100)
+  KXNCAAMBGAME-26MAR18MURRNEV-NEV: collection starts at 2026-03-18 18:30:00 (tipoff ts=1773884700)
+  KXNCAAMBGAME-26MAR18MURRNEV-MURR: collection starts at 2026-03-18 18:30:00 (tipoff ts=1773884700)
+  KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE: collection starts at 2026-03-18 15:30:00 (tipoff ts=1773873900)
+  KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY: collection starts at 2026-03-18 15:30:00 (tipoff ts=1773873900)
+  KXNCAAMBGAME-26MAR18KENTILST-KENT: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNCAAMBGAME-26MAR18KENTILST-ILST: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNCAAMBGAME-26MAR18DAYBRAD-DAY: collection starts at 2026-03-18 17:30:00 (tipoff ts=1773881100)
+  KXNCAAMBGAME-26MAR18DAYBRAD-BRAD: collection starts at 2026-03-18 17:30:00 (tipoff ts=1773881100)
+  KXNCAAMBGAME-26MAR18MOHSMU-SMU: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNCAAMBGAME-26MAR18MOHSMU-MOH: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNCAAMBGAME-26MAR18PVLEH-PV: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNCAAMBGAME-26MAR18PVLEH-LEH: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNCAAWBGAME-26MAR18NEBRICH-RICH: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNCAAWBGAME-26MAR18NEBRICH-NEB: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNCAAWBGAME-26MAR18SFAMOSU-SFA: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNCAAWBGAME-26MAR18SFAMOSU-MOSU: collection starts at 2026-03-18 09:30:00 (tipoff ts=1773852300)
+  KXNBAGAME-26MAR18LALHOU-LAL: collection starts at 2026-03-18 18:00:00 (tipoff ts=1773882900)
+  KXNBAGAME-26MAR18LALHOU-HOU: collection starts at 2026-03-18 18:00:00 (tipoff ts=1773882900)
+  KXNBAGAME-26MAR18LACNOP-NOP: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNBAGAME-26MAR18LACNOP-LAC: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNBAGAME-26MAR18DENMEM-MEM: collection starts at 2026-03-18 17:00:00 (tipoff ts=1773879300)
+  KXNBAGAME-26MAR18DENMEM-DEN: collection starts at 2026-03-18 17:00:00 (tipoff ts=1773879300)
+  KXNBAGAME-26MAR18ATLDAL-DAL: collection starts at 2026-03-18 17:00:00 (tipoff ts=1773879300)
+  KXNBAGAME-26MAR18ATLDAL-ATL: collection starts at 2026-03-18 17:00:00 (tipoff ts=1773879300)
+  KXNBAGAME-26MAR18PORIND-POR: collection starts at 2026-03-18 16:00:00 (tipoff ts=1773875700)
+  KXNBAGAME-26MAR18PORIND-IND: collection starts at 2026-03-18 16:00:00 (tipoff ts=1773875700)
+  KXNBAGAME-26MAR18UTAMIN-UTA: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNBAGAME-26MAR18UTAMIN-MIN: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNBAGAME-26MAR18OKCBKN-OKC: collection starts at 2026-03-18 16:00:00 (tipoff ts=1773875700)
+  KXNBAGAME-26MAR18OKCBKN-BKN: collection starts at 2026-03-18 16:00:00 (tipoff ts=1773875700)
+  KXNBAGAME-26MAR18TORCHI-TOR: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNBAGAME-26MAR18TORCHI-CHI: collection starts at 2026-03-18 16:30:00 (tipoff ts=1773877500)
+  KXNBAGAME-26MAR18GSWBOS-GSW: collection starts at 2026-03-18 15:30:00 (tipoff ts=1773873900)
+  KXNBAGAME-26MAR18GSWBOS-BOS: collection starts at 2026-03-18 15:30:00 (tipoff ts=1773873900)
+  KXUCLGAME-26MAR18BMUATA-TIE: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18BMUATA-BMU: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18BMUATA-ATA: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18TOTATM-TOT: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18TOTATM-TIE: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18TOTATM-ATM: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18LFCGAL-TIE: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18LFCGAL-LFC: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18LFCGAL-GAL: collection starts at 2026-03-18 12:30:00 (tipoff ts=1773863100)
+  KXUCLGAME-26MAR18BARNEW-TIE: collection starts at 2026-03-18 10:15:00 (tipoff ts=1773855000)
+  KXUCLGAME-26MAR18BARNEW-NEW: collection starts at 2026-03-18 10:15:00 (tipoff ts=1773855000)
+  KXUCLGAME-26MAR18BARNEW-BAR: collection starts at 2026-03-18 10:15:00 (tipoff ts=1773855000)
+  KXLIGAMXGAME-26MAR18CDGLEO-TIE: collection starts at 2026-03-18 18:37:00 (tipoff ts=1773885120)
+  KXLIGAMXGAME-26MAR18CDGLEO-LEO: collection starts at 2026-03-18 18:37:00 (tipoff ts=1773885120)
+  KXLIGAMXGAME-26MAR18CDGLEO-CDG: collection starts at 2026-03-18 18:37:00 (tipoff ts=1773885120)
+  KXMLBSTGAME-26MAR181610MILSEA-SEA: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR181610MILSEA-MIL: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR182105KCTEX-TEX: collection starts at 2026-03-18 17:35:00 (tipoff ts=1773881400)
+  KXMLBSTGAME-26MAR182105KCTEX-KC: collection starts at 2026-03-18 17:35:00 (tipoff ts=1773881400)
+  KXMLBSTGAME-26MAR181610CINLAA-LAA: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR181610CINLAA-CIN: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR181605SFLAD-SF: collection starts at 2026-03-18 12:35:00 (tipoff ts=1773863400)
+  KXMLBSTGAME-26MAR181605SFLAD-LAD: collection starts at 2026-03-18 12:35:00 (tipoff ts=1773863400)
+  KXMLBSTGAME-26MAR181305BOSNYY-NYY: collection starts at 2026-03-18 09:35:00 (tipoff ts=1773852600)
+  KXMLBSTGAME-26MAR181305BOSNYY-BOS: collection starts at 2026-03-18 09:35:00 (tipoff ts=1773852600)
+  KXMLBSTGAME-26MAR181305PHIATL-PHI: collection starts at 2026-03-18 09:35:00 (tipoff ts=1773852600)
+  KXMLBSTGAME-26MAR181305PHIATL-ATL: collection starts at 2026-03-18 09:35:00 (tipoff ts=1773852600)
+  KXMLBSTGAME-26MAR181805MIAWSH-WSH: collection starts at 2026-03-18 14:35:00 (tipoff ts=1773870600)
+  KXMLBSTGAME-26MAR181805MIAWSH-MIA: collection starts at 2026-03-18 14:35:00 (tipoff ts=1773870600)
+  KXMLBSTGAME-26MAR181605COLCIN-COL: collection starts at 2026-03-18 12:35:00 (tipoff ts=1773863400)
+  KXMLBSTGAME-26MAR181605COLCIN-CIN: collection starts at 2026-03-18 12:35:00 (tipoff ts=1773863400)
+  KXMLBSTGAME-26MAR181305HOUSTL-STL: collection starts at 2026-03-18 09:35:00 (tipoff ts=1773852600)
+  KXMLBSTGAME-26MAR181305HOUSTL-HOU: collection starts at 2026-03-18 09:35:00 (tipoff ts=1773852600)
+  KXMLBSTGAME-26MAR181610LAAMIL-MIL: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR181610LAAMIL-LAA: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR181307BALTOR-TOR: collection starts at 2026-03-18 09:37:00 (tipoff ts=1773852720)
+  KXMLBSTGAME-26MAR181307BALTOR-BAL: collection starts at 2026-03-18 09:37:00 (tipoff ts=1773852720)
+  KXMLBSTGAME-26MAR181610CHCAZ-CHC: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR181610CHCAZ-AZ: collection starts at 2026-03-18 12:40:00 (tipoff ts=1773863700)
+  KXMLBSTGAME-26MAR181805DETPIT-PIT: collection starts at 2026-03-18 14:35:00 (tipoff ts=1773870600)
+  KXMLBSTGAME-26MAR181805DETPIT-DET: collection starts at 2026-03-18 14:35:00 (tipoff ts=1773870600)
+Starting new_data_aggregator for 83 ticker(s).
+[WS] Connecting to wss://api.elections.kalshi.com/trade-api/ws/v2 for tickers: ['KXNCAAMBGAME-26MAR18GWUVU-UVU', 'KXNCAAMBGAME-26MAR18GWUVU-GW', 'KXNCAAMBGAME-26MAR18JOESCSU-JOES', 'KXNCAAMBGAME-26MAR18JOESCSU-CSU', 'KXNCAAMBGAME-26MAR18UICCAL-UIC', 'KXNCAAMBGAME-26MAR18UICCAL-CAL', 'KXNCAAMBGAME-26MAR18SHSUUNM-UNM', 'KXNCAAMBGAME-26MAR18SHSUUNM-SHSU', 'KXNCAAMBGAME-26MAR18MURRNEV-NEV', 'KXNCAAMBGAME-26MAR18MURRNEV-MURR', 'KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE', 'KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY', 'KXNCAAMBGAME-26MAR18KENTILST-KENT', 'KXNCAAMBGAME-26MAR18KENTILST-ILST', 'KXNCAAMBGAME-26MAR18DAYBRAD-DAY', 'KXNCAAMBGAME-26MAR18DAYBRAD-BRAD', 'KXNCAAMBGAME-26MAR18MOHSMU-SMU', 'KXNCAAMBGAME-26MAR18MOHSMU-MOH', 'KXNCAAMBGAME-26MAR18PVLEH-PV', 'KXNCAAMBGAME-26MAR18PVLEH-LEH', 'KXNCAAWBGAME-26MAR18NEBRICH-RICH', 'KXNCAAWBGAME-26MAR18NEBRICH-NEB', 'KXNCAAWBGAME-26MAR18SFAMOSU-SFA', 'KXNCAAWBGAME-26MAR18SFAMOSU-MOSU', 'KXNBAGAME-26MAR18LALHOU-LAL', 'KXNBAGAME-26MAR18LALHOU-HOU', 'KXNBAGAME-26MAR18LACNOP-NOP', 'KXNBAGAME-26MAR18LACNOP-LAC', 'KXNBAGAME-26MAR18DENMEM-MEM', 'KXNBAGAME-26MAR18DENMEM-DEN', 'KXNBAGAME-26MAR18ATLDAL-DAL', 'KXNBAGAME-26MAR18ATLDAL-ATL', 'KXNBAGAME-26MAR18PORIND-POR', 'KXNBAGAME-26MAR18PORIND-IND', 'KXNBAGAME-26MAR18UTAMIN-UTA', 'KXNBAGAME-26MAR18UTAMIN-MIN', 'KXNBAGAME-26MAR18OKCBKN-OKC', 'KXNBAGAME-26MAR18OKCBKN-BKN', 'KXNBAGAME-26MAR18TORCHI-TOR', 'KXNBAGAME-26MAR18TORCHI-CHI', 'KXNBAGAME-26MAR18GSWBOS-GSW', 'KXNBAGAME-26MAR18GSWBOS-BOS', 'KXUCLGAME-26MAR18BMUATA-TIE', 'KXUCLGAME-26MAR18BMUATA-BMU', 'KXUCLGAME-26MAR18BMUATA-ATA', 'KXUCLGAME-26MAR18TOTATM-TOT', 'KXUCLGAME-26MAR18TOTATM-TIE', 'KXUCLGAME-26MAR18TOTATM-ATM', 'KXUCLGAME-26MAR18LFCGAL-TIE', 'KXUCLGAME-26MAR18LFCGAL-LFC', 'KXUCLGAME-26MAR18LFCGAL-GAL', 'KXUCLGAME-26MAR18BARNEW-TIE', 'KXUCLGAME-26MAR18BARNEW-NEW', 'KXUCLGAME-26MAR18BARNEW-BAR', 'KXLIGAMXGAME-26MAR18CDGLEO-TIE', 'KXLIGAMXGAME-26MAR18CDGLEO-LEO', 'KXLIGAMXGAME-26MAR18CDGLEO-CDG', 'KXMLBSTGAME-26MAR181610MILSEA-SEA', 'KXMLBSTGAME-26MAR181610MILSEA-MIL', 'KXMLBSTGAME-26MAR182105KCTEX-TEX', 'KXMLBSTGAME-26MAR182105KCTEX-KC', 'KXMLBSTGAME-26MAR181610CINLAA-LAA', 'KXMLBSTGAME-26MAR181610CINLAA-CIN', 'KXMLBSTGAME-26MAR181605SFLAD-SF', 'KXMLBSTGAME-26MAR181605SFLAD-LAD', 'KXMLBSTGAME-26MAR181305BOSNYY-NYY', 'KXMLBSTGAME-26MAR181305BOSNYY-BOS', 'KXMLBSTGAME-26MAR181305PHIATL-PHI', 'KXMLBSTGAME-26MAR181305PHIATL-ATL', 'KXMLBSTGAME-26MAR181805MIAWSH-WSH', 'KXMLBSTGAME-26MAR181805MIAWSH-MIA', 'KXMLBSTGAME-26MAR181605COLCIN-COL', 'KXMLBSTGAME-26MAR181605COLCIN-CIN', 'KXMLBSTGAME-26MAR181305HOUSTL-STL', 'KXMLBSTGAME-26MAR181305HOUSTL-HOU', 'KXMLBSTGAME-26MAR181610LAAMIL-MIL', 'KXMLBSTGAME-26MAR181610LAAMIL-LAA', 'KXMLBSTGAME-26MAR181307BALTOR-TOR', 'KXMLBSTGAME-26MAR181307BALTOR-BAL', 'KXMLBSTGAME-26MAR181610CHCAZ-CHC', 'KXMLBSTGAME-26MAR181610CHCAZ-AZ', 'KXMLBSTGAME-26MAR181805DETPIT-PIT', 'KXMLBSTGAME-26MAR181805DETPIT-DET']
+[KXNCAAMBGAME-26MAR18GWUVU-UVU] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18GWUVU-GW] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18JOESCSU-JOES] Waiting 804.7 min — collection opens at 19:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18JOESCSU-CSU] Waiting 804.7 min — collection opens at 19:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18UICCAL-UIC] Waiting 804.7 min — collection opens at 19:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18UICCAL-CAL] Waiting 804.7 min — collection opens at 19:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18SHSUUNM-UNM] Waiting 684.7 min — collection opens at 17:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18SHSUUNM-SHSU] Waiting 684.7 min — collection opens at 17:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18MURRNEV-NEV] Waiting 744.7 min — collection opens at 18:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18MURRNEV-MURR] Waiting 744.7 min — collection opens at 18:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE] Waiting 564.7 min — collection opens at 15:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY] Waiting 564.7 min — collection opens at 15:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18KENTILST-KENT] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18KENTILST-ILST] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18DAYBRAD-DAY] Waiting 684.7 min — collection opens at 17:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18DAYBRAD-BRAD] Waiting 684.7 min — collection opens at 17:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18MOHSMU-SMU] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18MOHSMU-MOH] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18PVLEH-PV] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNCAAMBGAME-26MAR18PVLEH-LEH] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNCAAWBGAME-26MAR18NEBRICH-RICH] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNCAAWBGAME-26MAR18NEBRICH-NEB] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNCAAWBGAME-26MAR18SFAMOSU-SFA] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNCAAWBGAME-26MAR18SFAMOSU-MOSU] Waiting 204.7 min — collection opens at 09:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18LALHOU-LAL] Waiting 714.7 min — collection opens at 18:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18LALHOU-HOU] Waiting 714.7 min — collection opens at 18:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18LACNOP-NOP] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18LACNOP-LAC] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18DENMEM-MEM] Waiting 654.7 min — collection opens at 17:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18DENMEM-DEN] Waiting 654.7 min — collection opens at 17:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18ATLDAL-DAL] Waiting 654.7 min — collection opens at 17:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18ATLDAL-ATL] Waiting 654.7 min — collection opens at 17:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18PORIND-POR] Waiting 594.7 min — collection opens at 16:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18PORIND-IND] Waiting 594.7 min — collection opens at 16:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18UTAMIN-UTA] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18UTAMIN-MIN] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18OKCBKN-OKC] Waiting 594.7 min — collection opens at 16:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18OKCBKN-BKN] Waiting 594.7 min — collection opens at 16:00:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18TORCHI-TOR] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18TORCHI-CHI] Waiting 624.7 min — collection opens at 16:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18GSWBOS-GSW] Waiting 564.7 min — collection opens at 15:30:00 (15 min before tipoff)
+[KXNBAGAME-26MAR18GSWBOS-BOS] Waiting 564.7 min — collection opens at 15:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18BMUATA-TIE] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18BMUATA-BMU] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18BMUATA-ATA] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18TOTATM-TOT] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18TOTATM-TIE] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18TOTATM-ATM] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18LFCGAL-TIE] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18LFCGAL-LFC] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18LFCGAL-GAL] Waiting 384.7 min — collection opens at 12:30:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18BARNEW-TIE] Waiting 249.7 min — collection opens at 10:15:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18BARNEW-NEW] Waiting 249.7 min — collection opens at 10:15:00 (15 min before tipoff)
+[KXUCLGAME-26MAR18BARNEW-BAR] Waiting 249.7 min — collection opens at 10:15:00 (15 min before tipoff)
+[KXLIGAMXGAME-26MAR18CDGLEO-TIE] Waiting 751.7 min — collection opens at 18:37:00 (15 min before tipoff)
+[KXLIGAMXGAME-26MAR18CDGLEO-LEO] Waiting 751.7 min — collection opens at 18:37:00 (15 min before tipoff)
+[KXLIGAMXGAME-26MAR18CDGLEO-CDG] Waiting 751.7 min — collection opens at 18:37:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610MILSEA-SEA] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610MILSEA-MIL] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR182105KCTEX-TEX] Waiting 689.7 min — collection opens at 17:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR182105KCTEX-KC] Waiting 689.7 min — collection opens at 17:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610CINLAA-LAA] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610CINLAA-CIN] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181605SFLAD-SF] Waiting 389.7 min — collection opens at 12:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181605SFLAD-LAD] Waiting 389.7 min — collection opens at 12:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181305BOSNYY-NYY] Waiting 209.7 min — collection opens at 09:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181305BOSNYY-BOS] Waiting 209.7 min — collection opens at 09:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181305PHIATL-PHI] Waiting 209.7 min — collection opens at 09:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181305PHIATL-ATL] Waiting 209.7 min — collection opens at 09:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181805MIAWSH-WSH] Waiting 509.7 min — collection opens at 14:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181805MIAWSH-MIA] Waiting 509.7 min — collection opens at 14:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181605COLCIN-COL] Waiting 389.7 min — collection opens at 12:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181605COLCIN-CIN] Waiting 389.7 min — collection opens at 12:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181305HOUSTL-STL] Waiting 209.7 min — collection opens at 09:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181305HOUSTL-HOU] Waiting 209.7 min — collection opens at 09:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610LAAMIL-MIL] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610LAAMIL-LAA] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181307BALTOR-TOR] Waiting 211.7 min — collection opens at 09:37:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181307BALTOR-BAL] Waiting 211.7 min — collection opens at 09:37:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610CHCAZ-CHC] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181610CHCAZ-AZ] Waiting 394.7 min — collection opens at 12:40:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181805DETPIT-PIT] Waiting 509.7 min — collection opens at 14:35:00 (15 min before tipoff)
+[KXMLBSTGAME-26MAR181805DETPIT-DET] Waiting 509.7 min — collection opens at 14:35:00 (15 min before tipoff)
+[WS] Subscribed to trade + orderbook_delta for ['KXNCAAMBGAME-26MAR18GWUVU-UVU', 'KXNCAAMBGAME-26MAR18GWUVU-GW', 'KXNCAAMBGAME-26MAR18JOESCSU-JOES', 'KXNCAAMBGAME-26MAR18JOESCSU-CSU', 'KXNCAAMBGAME-26MAR18UICCAL-UIC', 'KXNCAAMBGAME-26MAR18UICCAL-CAL', 'KXNCAAMBGAME-26MAR18SHSUUNM-UNM', 'KXNCAAMBGAME-26MAR18SHSUUNM-SHSU', 'KXNCAAMBGAME-26MAR18MURRNEV-NEV', 'KXNCAAMBGAME-26MAR18MURRNEV-MURR', 'KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE', 'KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY', 'KXNCAAMBGAME-26MAR18KENTILST-KENT', 'KXNCAAMBGAME-26MAR18KENTILST-ILST', 'KXNCAAMBGAME-26MAR18DAYBRAD-DAY', 'KXNCAAMBGAME-26MAR18DAYBRAD-BRAD', 'KXNCAAMBGAME-26MAR18MOHSMU-SMU', 'KXNCAAMBGAME-26MAR18MOHSMU-MOH', 'KXNCAAMBGAME-26MAR18PVLEH-PV', 'KXNCAAMBGAME-26MAR18PVLEH-LEH', 'KXNCAAWBGAME-26MAR18NEBRICH-RICH', 'KXNCAAWBGAME-26MAR18NEBRICH-NEB', 'KXNCAAWBGAME-26MAR18SFAMOSU-SFA', 'KXNCAAWBGAME-26MAR18SFAMOSU-MOSU', 'KXNBAGAME-26MAR18LALHOU-LAL', 'KXNBAGAME-26MAR18LALHOU-HOU', 'KXNBAGAME-26MAR18LACNOP-NOP', 'KXNBAGAME-26MAR18LACNOP-LAC', 'KXNBAGAME-26MAR18DENMEM-MEM', 'KXNBAGAME-26MAR18DENMEM-DEN', 'KXNBAGAME-26MAR18ATLDAL-DAL', 'KXNBAGAME-26MAR18ATLDAL-ATL', 'KXNBAGAME-26MAR18PORIND-POR', 'KXNBAGAME-26MAR18PORIND-IND', 'KXNBAGAME-26MAR18UTAMIN-UTA', 'KXNBAGAME-26MAR18UTAMIN-MIN', 'KXNBAGAME-26MAR18OKCBKN-OKC', 'KXNBAGAME-26MAR18OKCBKN-BKN', 'KXNBAGAME-26MAR18TORCHI-TOR', 'KXNBAGAME-26MAR18TORCHI-CHI', 'KXNBAGAME-26MAR18GSWBOS-GSW', 'KXNBAGAME-26MAR18GSWBOS-BOS', 'KXUCLGAME-26MAR18BMUATA-TIE', 'KXUCLGAME-26MAR18BMUATA-BMU', 'KXUCLGAME-26MAR18BMUATA-ATA', 'KXUCLGAME-26MAR18TOTATM-TOT', 'KXUCLGAME-26MAR18TOTATM-TIE', 'KXUCLGAME-26MAR18TOTATM-ATM', 'KXUCLGAME-26MAR18LFCGAL-TIE', 'KXUCLGAME-26MAR18LFCGAL-LFC', 'KXUCLGAME-26MAR18LFCGAL-GAL', 'KXUCLGAME-26MAR18BARNEW-TIE', 'KXUCLGAME-26MAR18BARNEW-NEW', 'KXUCLGAME-26MAR18BARNEW-BAR', 'KXLIGAMXGAME-26MAR18CDGLEO-TIE', 'KXLIGAMXGAME-26MAR18CDGLEO-LEO', 'KXLIGAMXGAME-26MAR18CDGLEO-CDG', 'KXMLBSTGAME-26MAR181610MILSEA-SEA', 'KXMLBSTGAME-26MAR181610MILSEA-MIL', 'KXMLBSTGAME-26MAR182105KCTEX-TEX', 'KXMLBSTGAME-26MAR182105KCTEX-KC', 'KXMLBSTGAME-26MAR181610CINLAA-LAA', 'KXMLBSTGAME-26MAR181610CINLAA-CIN', 'KXMLBSTGAME-26MAR181605SFLAD-SF', 'KXMLBSTGAME-26MAR181605SFLAD-LAD', 'KXMLBSTGAME-26MAR181305BOSNYY-NYY', 'KXMLBSTGAME-26MAR181305BOSNYY-BOS', 'KXMLBSTGAME-26MAR181305PHIATL-PHI', 'KXMLBSTGAME-26MAR181305PHIATL-ATL', 'KXMLBSTGAME-26MAR181805MIAWSH-WSH', 'KXMLBSTGAME-26MAR181805MIAWSH-MIA', 'KXMLBSTGAME-26MAR181605COLCIN-COL', 'KXMLBSTGAME-26MAR181605COLCIN-CIN', 'KXMLBSTGAME-26MAR181305HOUSTL-STL', 'KXMLBSTGAME-26MAR181305HOUSTL-HOU', 'KXMLBSTGAME-26MAR181610LAAMIL-MIL', 'KXMLBSTGAME-26MAR181610LAAMIL-LAA', 'KXMLBSTGAME-26MAR181307BALTOR-TOR', 'KXMLBSTGAME-26MAR181307BALTOR-BAL', 'KXMLBSTGAME-26MAR181610CHCAZ-CHC', 'KXMLBSTGAME-26MAR181610CHCAZ-AZ', 'KXMLBSTGAME-26MAR181805DETPIT-PIT', 'KXMLBSTGAME-26MAR181805DETPIT-DET']
+[KXLIGAMXGAME-26MAR18CDGLEO-CDG] Snapshot applied — 19 bid levels, 28 ask levels
+[KXLIGAMXGAME-26MAR18CDGLEO-LEO] Snapshot applied — 11 bid levels, 43 ask levels
+[KXLIGAMXGAME-26MAR18CDGLEO-TIE] Snapshot applied — 16 bid levels, 44 ask levels
+[KXMLBSTGAME-26MAR181305BOSNYY-BOS] Snapshot applied — 20 bid levels, 43 ask levels
+[KXMLBSTGAME-26MAR181305BOSNYY-NYY] Snapshot applied — 15 bid levels, 37 ask levels
+[KXMLBSTGAME-26MAR181305HOUSTL-HOU] Snapshot applied — 14 bid levels, 36 ask levels
+[KXMLBSTGAME-26MAR181305HOUSTL-STL] Snapshot applied — 20 bid levels, 41 ask levels
+[KXMLBSTGAME-26MAR181305PHIATL-ATL] Snapshot applied — 14 bid levels, 33 ask levels
+[KXMLBSTGAME-26MAR181305PHIATL-PHI] Snapshot applied — 18 bid levels, 42 ask levels
+[KXMLBSTGAME-26MAR181307BALTOR-BAL] Snapshot applied — 18 bid levels, 44 ask levels
+[KXMLBSTGAME-26MAR181307BALTOR-TOR] Snapshot applied — 18 bid levels, 33 ask levels
+[KXMLBSTGAME-26MAR181605COLCIN-CIN] Snapshot applied — 10 bid levels, 28 ask levels
+[KXMLBSTGAME-26MAR181605COLCIN-COL] Snapshot applied — 10 bid levels, 34 ask levels
+[KXMLBSTGAME-26MAR181605SFLAD-LAD] Snapshot applied — 18 bid levels, 32 ask levels
+[KXMLBSTGAME-26MAR181605SFLAD-SF] Snapshot applied — 20 bid levels, 44 ask levels
+[KXMLBSTGAME-26MAR181610CHCAZ-AZ] Snapshot applied — 16 bid levels, 42 ask levels
+[KXMLBSTGAME-26MAR181610CHCAZ-CHC] Snapshot applied — 16 bid levels, 36 ask levels
+[KXMLBSTGAME-26MAR181610CINLAA-CIN] Snapshot applied — 10 bid levels, 35 ask levels
+[KXMLBSTGAME-26MAR181610CINLAA-LAA] Snapshot applied — 12 bid levels, 34 ask levels
+[KXMLBSTGAME-26MAR181610LAAMIL-LAA] Snapshot applied — 10 bid levels, 37 ask levels
+[KXMLBSTGAME-26MAR181610LAAMIL-MIL] Snapshot applied — 9 bid levels, 33 ask levels
+[KXMLBSTGAME-26MAR181610MILSEA-MIL] Snapshot applied — 11 bid levels, 36 ask levels
+[KXMLBSTGAME-26MAR181610MILSEA-SEA] Snapshot applied — 15 bid levels, 38 ask levels
+[KXMLBSTGAME-26MAR181805DETPIT-DET] Snapshot applied — 14 bid levels, 40 ask levels
+[KXMLBSTGAME-26MAR181805DETPIT-PIT] Snapshot applied — 16 bid levels, 37 ask levels
+[KXMLBSTGAME-26MAR181805MIAWSH-MIA] Snapshot applied — 15 bid levels, 38 ask levels
+[KXMLBSTGAME-26MAR181805MIAWSH-WSH] Snapshot applied — 16 bid levels, 36 ask levels
+[KXMLBSTGAME-26MAR182105KCTEX-KC] Snapshot applied — 15 bid levels, 43 ask levels
+[KXMLBSTGAME-26MAR182105KCTEX-TEX] Snapshot applied — 17 bid levels, 38 ask levels
+[KXNBAGAME-26MAR18ATLDAL-ATL] Snapshot applied — 71 bid levels, 24 ask levels
+[KXNBAGAME-26MAR18ATLDAL-DAL] Snapshot applied — 24 bid levels, 75 ask levels
+[KXNBAGAME-26MAR18DENMEM-DEN] Snapshot applied — 77 bid levels, 11 ask levels
+[KXNBAGAME-26MAR18DENMEM-MEM] Snapshot applied — 9 bid levels, 85 ask levels
+[KXNBAGAME-26MAR18GSWBOS-BOS] Snapshot applied — 83 bid levels, 14 ask levels
+[KXNBAGAME-26MAR18GSWBOS-GSW] Snapshot applied — 14 bid levels, 84 ask levels
+[KXNBAGAME-26MAR18LACNOP-LAC] Snapshot applied — 44 bid levels, 53 ask levels
+[KXNBAGAME-26MAR18LACNOP-NOP] Snapshot applied — 49 bid levels, 45 ask levels
+[KXNBAGAME-26MAR18LALHOU-HOU] Snapshot applied — 52 bid levels, 44 ask levels
+[KXNBAGAME-26MAR18LALHOU-LAL] Snapshot applied — 40 bid levels, 54 ask levels
+[KXNBAGAME-26MAR18OKCBKN-BKN] Snapshot applied — 4 bid levels, 91 ask levels
+[KXNBAGAME-26MAR18OKCBKN-OKC] Snapshot applied — 93 bid levels, 4 ask levels
+[KXNBAGAME-26MAR18PORIND-IND] Snapshot applied — 16 bid levels, 79 ask levels
+[KXNBAGAME-26MAR18PORIND-POR] Snapshot applied — 73 bid levels, 16 ask levels
+[KXNBAGAME-26MAR18TORCHI-CHI] Snapshot applied — 25 bid levels, 73 ask levels
+[KXNBAGAME-26MAR18TORCHI-TOR] Snapshot applied — 72 bid levels, 24 ask levels
+[KXNBAGAME-26MAR18UTAMIN-MIN] Snapshot applied — 86 bid levels, 11 ask levels
+[KXNBAGAME-26MAR18UTAMIN-UTA] Snapshot applied — 12 bid levels, 87 ask levels
+[KXNCAAMBGAME-26MAR18DAYBRAD-BRAD] Snapshot applied — 45 bid levels, 52 ask levels
+[KXNCAAMBGAME-26MAR18DAYBRAD-DAY] Snapshot applied — 47 bid levels, 47 ask levels
+[KXNCAAMBGAME-26MAR18GWUVU-GW] Snapshot applied — 44 bid levels, 53 ask levels
+[KXNCAAMBGAME-26MAR18GWUVU-UVU] Snapshot applied — 50 bid levels, 45 ask levels
+[KXNCAAMBGAME-26MAR18JOESCSU-CSU] Snapshot applied — 63 bid levels, 30 ask levels
+[KXNCAAMBGAME-26MAR18JOESCSU-JOES] Snapshot applied — 30 bid levels, 68 ask levels
+[KXNCAAMBGAME-26MAR18KENTILST-ILST] Snapshot applied — 65 bid levels, 30 ask levels
+[KXNCAAMBGAME-26MAR18KENTILST-KENT] Snapshot applied — 30 bid levels, 69 ask levels
+[KXNCAAMBGAME-26MAR18MOHSMU-MOH] Snapshot applied — 25 bid levels, 68 ask levels
+[KXNCAAMBGAME-26MAR18MOHSMU-SMU] Snapshot applied — 66 bid levels, 27 ask levels
+[KXNCAAMBGAME-26MAR18MURRNEV-MURR] Snapshot applied — 23 bid levels, 75 ask levels
+[KXNCAAMBGAME-26MAR18MURRNEV-NEV] Snapshot applied — 75 bid levels, 21 ask levels
+[KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY] Snapshot applied — 15 bid levels, 84 ask levels
+[KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE] Snapshot applied — 83 bid levels, 14 ask levels
+[KXNCAAMBGAME-26MAR18PVLEH-LEH] Snapshot applied — 57 bid levels, 38 ask levels
+[KXNCAAMBGAME-26MAR18PVLEH-PV] Snapshot applied — 38 bid levels, 59 ask levels
+[KXNCAAMBGAME-26MAR18SHSUUNM-SHSU] Snapshot applied — 14 bid levels, 85 ask levels
+[KXNCAAMBGAME-26MAR18SHSUUNM-UNM] Snapshot applied — 82 bid levels, 13 ask levels
+[KXNCAAMBGAME-26MAR18UICCAL-CAL] Snapshot applied — 62 bid levels, 32 ask levels
+[KXNCAAMBGAME-26MAR18UICCAL-UIC] Snapshot applied — 32 bid levels, 67 ask levels
+[KXNCAAWBGAME-26MAR18NEBRICH-NEB] Snapshot applied — 44 bid levels, 33 ask levels
+[KXNCAAWBGAME-26MAR18NEBRICH-RICH] Snapshot applied — 32 bid levels, 57 ask levels
+[KXNCAAWBGAME-26MAR18SFAMOSU-MOSU] Snapshot applied — 42 bid levels, 40 ask levels
+[KXNCAAWBGAME-26MAR18SFAMOSU-SFA] Snapshot applied — 36 bid levels, 50 ask levels
+[KXUCLGAME-26MAR18BARNEW-BAR] Snapshot applied — 32 bid levels, 33 ask levels
+[KXUCLGAME-26MAR18BARNEW-NEW] Snapshot applied — 14 bid levels, 55 ask levels
+[KXUCLGAME-26MAR18BARNEW-TIE] Snapshot applied — 16 bid levels, 50 ask levels
+[KXUCLGAME-26MAR18BMUATA-ATA] Snapshot applied — 12 bid levels, 52 ask levels
+[KXUCLGAME-26MAR18BMUATA-BMU] Snapshot applied — 30 bid levels, 28 ask levels
+[KXUCLGAME-26MAR18BMUATA-TIE] Snapshot applied — 15 bid levels, 47 ask levels
+[KXUCLGAME-26MAR18LFCGAL-GAL] Snapshot applied — 9 bid levels, 59 ask levels
+[KXUCLGAME-26MAR18LFCGAL-LFC] Snapshot applied — 28 bid levels, 23 ask levels
+[KXUCLGAME-26MAR18LFCGAL-TIE] Snapshot applied — 13 bid levels, 51 ask levels
+[KXUCLGAME-26MAR18TOTATM-ATM] Snapshot applied — 22 bid levels, 49 ask levels
+[KXUCLGAME-26MAR18TOTATM-TIE] Snapshot applied — 17 bid levels, 48 ask levels
+[KXUCLGAME-26MAR18TOTATM-TOT] Snapshot applied — 24 bid levels, 47 ask levels
+[KXNCAAMBGAME-26MAR18MOHSMU-SMU] Collection starting now.
+[KXNCAAWBGAME-26MAR18NEBRICH-NEB] Collection starting now.
+[KXNCAAMBGAME-26MAR18PVLEH-PV] Collection starting now.
+[KXNCAAWBGAME-26MAR18SFAMOSU-SFA] Collection starting now.
+[KXNCAAWBGAME-26MAR18SFAMOSU-MOSU] Collection starting now.
+[KXNCAAWBGAME-26MAR18NEBRICH-RICH] Collection starting now.
+[KXNCAAMBGAME-26MAR18MOHSMU-MOH] Collection starting now.
+[KXNCAAMBGAME-26MAR18PVLEH-LEH] Collection starting now.
+[KXMLBSTGAME-26MAR181305HOUSTL-HOU] Collection starting now.
+[KXMLBSTGAME-26MAR181305BOSNYY-BOS] Collection starting now.
+[KXMLBSTGAME-26MAR181305PHIATL-ATL] Collection starting now.
+[KXMLBSTGAME-26MAR181305PHIATL-PHI] Collection starting now.
+[KXMLBSTGAME-26MAR181305HOUSTL-STL] Collection starting now.
+[KXMLBSTGAME-26MAR181305BOSNYY-NYY] Collection starting now.
+[KXMLBSTGAME-26MAR181307BALTOR-BAL] Collection starting now.
+[KXMLBSTGAME-26MAR181307BALTOR-TOR] Collection starting now.
+[KXUCLGAME-26MAR18BARNEW-TIE] Collection starting now.
+[KXUCLGAME-26MAR18BARNEW-NEW] Collection starting now.
+[KXUCLGAME-26MAR18BARNEW-BAR] Collection starting now.
+[KXMLBSTGAME-26MAR181305HOUSTL-HOU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305HOUSTL-STL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305HOUSTL-HOU] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181305HOUSTL-HOU] Ticker task complete.
+[KXMLBSTGAME-26MAR181305HOUSTL-STL] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181305HOUSTL-STL] Ticker task complete.
+[KXMLBSTGAME-26MAR181305PHIATL-PHI] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305PHIATL-ATL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305PHIATL-ATL] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181305PHIATL-ATL] Ticker task complete.
+[KXMLBSTGAME-26MAR181305PHIATL-PHI] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181305PHIATL-PHI] Ticker task complete.
+[KXMLBSTGAME-26MAR181305BOSNYY-BOS] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305BOSNYY-NYY] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305BOSNYY-NYY] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181305BOSNYY-NYY] Ticker task complete.
+[KXMLBSTGAME-26MAR181305BOSNYY-BOS] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181305BOSNYY-BOS] Ticker task complete.
+[KXUCLGAME-26MAR18TOTATM-TIE] Collection starting now.
+[KXUCLGAME-26MAR18BMUATA-BMU] Collection starting now.
+[KXUCLGAME-26MAR18BMUATA-ATA] Collection starting now.
+[KXUCLGAME-26MAR18TOTATM-ATM] Collection starting now.
+[KXUCLGAME-26MAR18LFCGAL-GAL] Collection starting now.
+[KXUCLGAME-26MAR18LFCGAL-TIE] Collection starting now.
+[KXUCLGAME-26MAR18TOTATM-TOT] Collection starting now.
+[KXUCLGAME-26MAR18BMUATA-TIE] Collection starting now.
+[KXUCLGAME-26MAR18LFCGAL-LFC] Collection starting now.
+[KXMLBSTGAME-26MAR181605SFLAD-SF] Collection starting now.
+[KXMLBSTGAME-26MAR181605COLCIN-CIN] Collection starting now.
+[KXMLBSTGAME-26MAR181605COLCIN-COL] Collection starting now.
+[KXMLBSTGAME-26MAR181605SFLAD-LAD] Collection starting now.
+[KXMLBSTGAME-26MAR181610CINLAA-CIN] Collection starting now.
+[KXMLBSTGAME-26MAR181610LAAMIL-MIL] Collection starting now.
+[KXMLBSTGAME-26MAR181610MILSEA-MIL] Collection starting now.
+[KXMLBSTGAME-26MAR181610CHCAZ-CHC] Collection starting now.
+[KXMLBSTGAME-26MAR181610CHCAZ-AZ] Collection starting now.
+[KXMLBSTGAME-26MAR181610CINLAA-LAA] Collection starting now.
+[KXMLBSTGAME-26MAR181610MILSEA-SEA] Collection starting now.
+[KXMLBSTGAME-26MAR181610LAAMIL-LAA] Collection starting now.
+[KXUCLGAME-26MAR18BARNEW-NEW] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BARNEW-BAR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BARNEW-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BARNEW-NEW] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18BARNEW-NEW] Ticker task complete.
+[KXUCLGAME-26MAR18BARNEW-TIE] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18BARNEW-TIE] Ticker task complete.
+[KXUCLGAME-26MAR18BARNEW-BAR] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18BARNEW-BAR] Ticker task complete.
+[KXMLBSTGAME-26MAR181307BALTOR-TOR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181307BALTOR-BAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181307BALTOR-TOR] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181307BALTOR-TOR] Ticker task complete.
+[KXMLBSTGAME-26MAR181307BALTOR-BAL] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181307BALTOR-BAL] Ticker task complete.
+[KXMLBSTGAME-26MAR181805DETPIT-PIT] Collection starting now.
+[KXMLBSTGAME-26MAR181805MIAWSH-WSH] Collection starting now.
+[KXMLBSTGAME-26MAR181805DETPIT-DET] Collection starting now.
+[KXMLBSTGAME-26MAR181805MIAWSH-MIA] Collection starting now.
+[KXUCLGAME-26MAR18BMUATA-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BMUATA-BMU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BMUATA-ATA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BMUATA-ATA] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18BMUATA-ATA] Ticker task complete.
+[KXUCLGAME-26MAR18BMUATA-TIE] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18BMUATA-TIE] Ticker task complete.
+[KXUCLGAME-26MAR18BMUATA-BMU] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18BMUATA-BMU] Ticker task complete.
+[KXUCLGAME-26MAR18TOTATM-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18TOTATM-TOT] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18TOTATM-ATM] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18LFCGAL-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18LFCGAL-LFC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18LFCGAL-GAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18TOTATM-TOT] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18TOTATM-TOT] Ticker task complete.
+[KXUCLGAME-26MAR18TOTATM-TIE] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18TOTATM-TIE] Ticker task complete.
+[KXUCLGAME-26MAR18LFCGAL-LFC] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18LFCGAL-LFC] Ticker task complete.
+[KXUCLGAME-26MAR18TOTATM-ATM] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18TOTATM-ATM] Ticker task complete.
+[KXUCLGAME-26MAR18LFCGAL-GAL] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18LFCGAL-GAL] Ticker task complete.
+[KXUCLGAME-26MAR18LFCGAL-TIE] Exiting: order book is empty (market closed/settled).
+[KXUCLGAME-26MAR18LFCGAL-TIE] Ticker task complete.
+[KXMLBSTGAME-26MAR181605SFLAD-SF] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605SFLAD-LAD] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605SFLAD-SF] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181605SFLAD-SF] Ticker task complete.
+[KXMLBSTGAME-26MAR181605SFLAD-LAD] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181605SFLAD-LAD] Ticker task complete.
+[KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE] Collection starting now.
+[KXNBAGAME-26MAR18GSWBOS-GSW] Collection starting now.
+[KXNBAGAME-26MAR18GSWBOS-BOS] Collection starting now.
+[KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY] Collection starting now.
+[KXMLBSTGAME-26MAR181610MILSEA-SEA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610MILSEA-MIL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610MILSEA-SEA] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610MILSEA-SEA] Ticker task complete.
+[KXMLBSTGAME-26MAR181610MILSEA-MIL] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610MILSEA-MIL] Ticker task complete.
+[KXMLBSTGAME-26MAR181610CINLAA-CIN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CINLAA-LAA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CINLAA-LAA] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610CINLAA-LAA] Ticker task complete.
+[KXMLBSTGAME-26MAR181610CINLAA-CIN] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610CINLAA-CIN] Ticker task complete.
+[KXMLBSTGAME-26MAR181605COLCIN-CIN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605COLCIN-COL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605COLCIN-CIN] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181605COLCIN-CIN] Ticker task complete.
+[KXMLBSTGAME-26MAR181605COLCIN-COL] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181605COLCIN-COL] Ticker task complete.
+[KXMLBSTGAME-26MAR181610LAAMIL-MIL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610LAAMIL-LAA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610LAAMIL-LAA] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610LAAMIL-LAA] Ticker task complete.
+[KXMLBSTGAME-26MAR181610LAAMIL-MIL] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610LAAMIL-MIL] Ticker task complete.
+[KXNBAGAME-26MAR18OKCBKN-OKC] Collection starting now.
+[KXNBAGAME-26MAR18OKCBKN-BKN] Collection starting now.
+[KXNBAGAME-26MAR18PORIND-POR] Collection starting now.
+[KXNBAGAME-26MAR18PORIND-IND] Collection starting now.
+[KXNBAGAME-26MAR18TORCHI-TOR] Collection starting now.
+[KXNBAGAME-26MAR18UTAMIN-UTA] Collection starting now.
+[KXNBAGAME-26MAR18LACNOP-LAC] Collection starting now.
+[KXNCAAMBGAME-26MAR18KENTILST-KENT] Collection starting now.
+[KXNBAGAME-26MAR18LACNOP-NOP] Collection starting now.
+[KXNCAAMBGAME-26MAR18KENTILST-ILST] Collection starting now.
+[KXNBAGAME-26MAR18UTAMIN-MIN] Collection starting now.
+[KXNBAGAME-26MAR18TORCHI-CHI] Collection starting now.
+[KXNCAAMBGAME-26MAR18GWUVU-GW] Collection starting now.
+[KXNCAAMBGAME-26MAR18GWUVU-UVU] Collection starting now.
+[KXMLBSTGAME-26MAR181610CHCAZ-AZ] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CHCAZ-CHC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CHCAZ-AZ] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610CHCAZ-AZ] Ticker task complete.
+[KXMLBSTGAME-26MAR181610CHCAZ-CHC] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181610CHCAZ-CHC] Ticker task complete.
+[KXNBAGAME-26MAR18ATLDAL-DAL] Collection starting now.
+[KXNBAGAME-26MAR18DENMEM-DEN] Collection starting now.
+[KXNBAGAME-26MAR18ATLDAL-ATL] Collection starting now.
+[KXNBAGAME-26MAR18DENMEM-MEM] Collection starting now.
+[KXNCAAMBGAME-26MAR18DAYBRAD-DAY] Collection starting now.
+[KXNCAAMBGAME-26MAR18SHSUUNM-UNM] Collection starting now.
+[KXNCAAMBGAME-26MAR18DAYBRAD-BRAD] Collection starting now.
+[KXNCAAMBGAME-26MAR18SHSUUNM-SHSU] Collection starting now.
+[KXMLBSTGAME-26MAR182105KCTEX-KC] Collection starting now.
+[KXMLBSTGAME-26MAR182105KCTEX-TEX] Collection starting now.
+[KXNCAAMBGAME-26MAR18PVLEH-LEH] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18PVLEH-PV] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18PVLEH-PV] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18PVLEH-PV] Ticker task complete.
+[KXNCAAMBGAME-26MAR18PVLEH-LEH] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18PVLEH-LEH] Ticker task complete.
+[KXNBAGAME-26MAR18LALHOU-LAL] Collection starting now.
+[KXNBAGAME-26MAR18LALHOU-HOU] Collection starting now.
+[KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY] Ticker task complete.
+[KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE] Ticker task complete.
+[KXMLBSTGAME-26MAR181805DETPIT-DET] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805DETPIT-PIT] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805DETPIT-PIT] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181805DETPIT-PIT] Ticker task complete.
+[KXMLBSTGAME-26MAR181805DETPIT-DET] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181805DETPIT-DET] Ticker task complete.
+[KXNCAAWBGAME-26MAR18NEBRICH-RICH] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18NEBRICH-NEB] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18NEBRICH-RICH] Exiting: order book is empty (market closed/settled).
+[KXNCAAWBGAME-26MAR18NEBRICH-RICH] Ticker task complete.
+[KXNCAAWBGAME-26MAR18NEBRICH-NEB] Exiting: order book is empty (market closed/settled).
+[KXNCAAWBGAME-26MAR18NEBRICH-NEB] Ticker task complete.
+[KXNCAAMBGAME-26MAR18MURRNEV-NEV] Collection starting now.
+[KXNCAAMBGAME-26MAR18MURRNEV-MURR] Collection starting now.
+[KXLIGAMXGAME-26MAR18CDGLEO-LEO] Collection starting now.
+[KXLIGAMXGAME-26MAR18CDGLEO-TIE] Collection starting now.
+[KXLIGAMXGAME-26MAR18CDGLEO-CDG] Collection starting now.
+[KXNBAGAME-26MAR18GSWBOS-GSW] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18GSWBOS-BOS] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18GSWBOS-GSW] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18GSWBOS-GSW] Ticker task complete.
+[KXNBAGAME-26MAR18GSWBOS-BOS] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18GSWBOS-BOS] Ticker task complete.
+[KXNBAGAME-26MAR18OKCBKN-OKC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18OKCBKN-BKN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18OKCBKN-OKC] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18OKCBKN-OKC] Ticker task complete.
+[KXNBAGAME-26MAR18OKCBKN-BKN] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18OKCBKN-BKN] Ticker task complete.
+[KXNBAGAME-26MAR18PORIND-POR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18PORIND-IND] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18PORIND-IND] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18PORIND-IND] Ticker task complete.
+[KXNBAGAME-26MAR18PORIND-POR] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18PORIND-POR] Ticker task complete.
+[KXNCAAMBGAME-26MAR18KENTILST-KENT] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18KENTILST-ILST] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18KENTILST-ILST] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18KENTILST-ILST] Ticker task complete.
+[KXNCAAMBGAME-26MAR18KENTILST-KENT] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18KENTILST-KENT] Ticker task complete.
+[KXNBAGAME-26MAR18LACNOP-LAC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LACNOP-NOP] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LACNOP-LAC] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18LACNOP-LAC] Ticker task complete.
+[KXNBAGAME-26MAR18LACNOP-NOP] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18LACNOP-NOP] Ticker task complete.
+[KXNCAAMBGAME-26MAR18UICCAL-CAL] Collection starting now.
+[KXNCAAMBGAME-26MAR18JOESCSU-CSU] Collection starting now.
+[KXNCAAMBGAME-26MAR18UICCAL-UIC] Collection starting now.
+[KXNCAAMBGAME-26MAR18JOESCSU-JOES] Collection starting now.
+[KXNBAGAME-26MAR18TORCHI-TOR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18TORCHI-CHI] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18TORCHI-CHI] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18TORCHI-CHI] Ticker task complete.
+[KXNBAGAME-26MAR18TORCHI-TOR] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18TORCHI-TOR] Ticker task complete.
+[KXNBAGAME-26MAR18UTAMIN-MIN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18UTAMIN-UTA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18UTAMIN-UTA] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18UTAMIN-UTA] Ticker task complete.
+[KXNBAGAME-26MAR18UTAMIN-MIN] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18UTAMIN-MIN] Ticker task complete.
+[KXNCAAMBGAME-26MAR18GWUVU-UVU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18GWUVU-GW] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18GWUVU-UVU] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18GWUVU-UVU] Ticker task complete.
+[KXNCAAMBGAME-26MAR18GWUVU-GW] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18GWUVU-GW] Ticker task complete.
+[KXNBAGAME-26MAR18ATLDAL-ATL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18ATLDAL-DAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18ATLDAL-DAL] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18ATLDAL-DAL] Ticker task complete.
+[KXNBAGAME-26MAR18ATLDAL-ATL] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18ATLDAL-ATL] Ticker task complete.
+[KXNBAGAME-26MAR18DENMEM-MEM] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18DENMEM-DEN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18DENMEM-MEM] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18DENMEM-MEM] Ticker task complete.
+[KXNBAGAME-26MAR18DENMEM-DEN] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18DENMEM-DEN] Ticker task complete.
+[KXNCAAMBGAME-26MAR18SHSUUNM-SHSU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18SHSUUNM-UNM] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18SHSUUNM-UNM] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18SHSUUNM-UNM] Ticker task complete.
+[KXNCAAMBGAME-26MAR18SHSUUNM-SHSU] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18SHSUUNM-SHSU] Ticker task complete.
+[KXNCAAMBGAME-26MAR18MOHSMU-MOH] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MOHSMU-SMU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MOHSMU-SMU] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18MOHSMU-SMU] Ticker task complete.
+[KXNCAAMBGAME-26MAR18MOHSMU-MOH] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18MOHSMU-MOH] Ticker task complete.
+[KXNCAAMBGAME-26MAR18DAYBRAD-BRAD] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18DAYBRAD-DAY] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18DAYBRAD-DAY] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18DAYBRAD-DAY] Ticker task complete.
+[KXNCAAMBGAME-26MAR18DAYBRAD-BRAD] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18DAYBRAD-BRAD] Ticker task complete.
+[KXNCAAWBGAME-26MAR18SFAMOSU-SFA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18SFAMOSU-MOSU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18SFAMOSU-SFA] Exiting: order book is empty (market closed/settled).
+[KXNCAAWBGAME-26MAR18SFAMOSU-SFA] Ticker task complete.
+[KXNCAAWBGAME-26MAR18SFAMOSU-MOSU] Exiting: order book is empty (market closed/settled).
+[KXNCAAWBGAME-26MAR18SFAMOSU-MOSU] Ticker task complete.
+[KXMLBSTGAME-26MAR182105KCTEX-TEX] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR182105KCTEX-KC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR182105KCTEX-TEX] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR182105KCTEX-TEX] Ticker task complete.
+[KXMLBSTGAME-26MAR182105KCTEX-KC] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR182105KCTEX-KC] Ticker task complete.
+[KXLIGAMXGAME-26MAR18CDGLEO-CDG] Snapshot applied — 0 bid levels, 0 ask levels
+[KXLIGAMXGAME-26MAR18CDGLEO-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXLIGAMXGAME-26MAR18CDGLEO-LEO] Snapshot applied — 0 bid levels, 0 ask levels
+[KXLIGAMXGAME-26MAR18CDGLEO-TIE] Exiting: order book is empty (market closed/settled).
+[KXLIGAMXGAME-26MAR18CDGLEO-TIE] Ticker task complete.
+[KXLIGAMXGAME-26MAR18CDGLEO-LEO] Exiting: order book is empty (market closed/settled).
+[KXLIGAMXGAME-26MAR18CDGLEO-LEO] Ticker task complete.
+[KXLIGAMXGAME-26MAR18CDGLEO-CDG] Exiting: order book is empty (market closed/settled).
+[KXLIGAMXGAME-26MAR18CDGLEO-CDG] Ticker task complete.
+[KXNBAGAME-26MAR18LALHOU-LAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LALHOU-HOU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LALHOU-HOU] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18LALHOU-HOU] Ticker task complete.
+[KXNBAGAME-26MAR18LALHOU-LAL] Exiting: order book is empty (market closed/settled).
+[KXNBAGAME-26MAR18LALHOU-LAL] Ticker task complete.
+[KXNCAAMBGAME-26MAR18MURRNEV-NEV] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MURRNEV-MURR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MURRNEV-MURR] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18MURRNEV-MURR] Ticker task complete.
+[KXNCAAMBGAME-26MAR18MURRNEV-NEV] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18MURRNEV-NEV] Ticker task complete.
+[KXNCAAMBGAME-26MAR18JOESCSU-CSU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18JOESCSU-JOES] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18JOESCSU-CSU] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18JOESCSU-CSU] Ticker task complete.
+[KXNCAAMBGAME-26MAR18JOESCSU-JOES] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18JOESCSU-JOES] Ticker task complete.
+[KXNCAAMBGAME-26MAR18UICCAL-CAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18UICCAL-UIC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18UICCAL-UIC] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18UICCAL-UIC] Ticker task complete.
+[KXNCAAMBGAME-26MAR18UICCAL-CAL] Exiting: order book is empty (market closed/settled).
+[KXNCAAMBGAME-26MAR18UICCAL-CAL] Ticker task complete.
+[WS] Connection issue: no close frame received or sent. Reconnecting in 5 seconds...
+[WS] Connecting to wss://api.elections.kalshi.com/trade-api/ws/v2 for tickers: ['KXNCAAMBGAME-26MAR18GWUVU-UVU', 'KXNCAAMBGAME-26MAR18GWUVU-GW', 'KXNCAAMBGAME-26MAR18JOESCSU-JOES', 'KXNCAAMBGAME-26MAR18JOESCSU-CSU', 'KXNCAAMBGAME-26MAR18UICCAL-UIC', 'KXNCAAMBGAME-26MAR18UICCAL-CAL', 'KXNCAAMBGAME-26MAR18SHSUUNM-UNM', 'KXNCAAMBGAME-26MAR18SHSUUNM-SHSU', 'KXNCAAMBGAME-26MAR18MURRNEV-NEV', 'KXNCAAMBGAME-26MAR18MURRNEV-MURR', 'KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE', 'KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY', 'KXNCAAMBGAME-26MAR18KENTILST-KENT', 'KXNCAAMBGAME-26MAR18KENTILST-ILST', 'KXNCAAMBGAME-26MAR18DAYBRAD-DAY', 'KXNCAAMBGAME-26MAR18DAYBRAD-BRAD', 'KXNCAAMBGAME-26MAR18MOHSMU-SMU', 'KXNCAAMBGAME-26MAR18MOHSMU-MOH', 'KXNCAAMBGAME-26MAR18PVLEH-PV', 'KXNCAAMBGAME-26MAR18PVLEH-LEH', 'KXNCAAWBGAME-26MAR18NEBRICH-RICH', 'KXNCAAWBGAME-26MAR18NEBRICH-NEB', 'KXNCAAWBGAME-26MAR18SFAMOSU-SFA', 'KXNCAAWBGAME-26MAR18SFAMOSU-MOSU', 'KXNBAGAME-26MAR18LALHOU-LAL', 'KXNBAGAME-26MAR18LALHOU-HOU', 'KXNBAGAME-26MAR18LACNOP-NOP', 'KXNBAGAME-26MAR18LACNOP-LAC', 'KXNBAGAME-26MAR18DENMEM-MEM', 'KXNBAGAME-26MAR18DENMEM-DEN', 'KXNBAGAME-26MAR18ATLDAL-DAL', 'KXNBAGAME-26MAR18ATLDAL-ATL', 'KXNBAGAME-26MAR18PORIND-POR', 'KXNBAGAME-26MAR18PORIND-IND', 'KXNBAGAME-26MAR18UTAMIN-UTA', 'KXNBAGAME-26MAR18UTAMIN-MIN', 'KXNBAGAME-26MAR18OKCBKN-OKC', 'KXNBAGAME-26MAR18OKCBKN-BKN', 'KXNBAGAME-26MAR18TORCHI-TOR', 'KXNBAGAME-26MAR18TORCHI-CHI', 'KXNBAGAME-26MAR18GSWBOS-GSW', 'KXNBAGAME-26MAR18GSWBOS-BOS', 'KXUCLGAME-26MAR18BMUATA-TIE', 'KXUCLGAME-26MAR18BMUATA-BMU', 'KXUCLGAME-26MAR18BMUATA-ATA', 'KXUCLGAME-26MAR18TOTATM-TOT', 'KXUCLGAME-26MAR18TOTATM-TIE', 'KXUCLGAME-26MAR18TOTATM-ATM', 'KXUCLGAME-26MAR18LFCGAL-TIE', 'KXUCLGAME-26MAR18LFCGAL-LFC', 'KXUCLGAME-26MAR18LFCGAL-GAL', 'KXUCLGAME-26MAR18BARNEW-TIE', 'KXUCLGAME-26MAR18BARNEW-NEW', 'KXUCLGAME-26MAR18BARNEW-BAR', 'KXLIGAMXGAME-26MAR18CDGLEO-TIE', 'KXLIGAMXGAME-26MAR18CDGLEO-LEO', 'KXLIGAMXGAME-26MAR18CDGLEO-CDG', 'KXMLBSTGAME-26MAR181610MILSEA-SEA', 'KXMLBSTGAME-26MAR181610MILSEA-MIL', 'KXMLBSTGAME-26MAR182105KCTEX-TEX', 'KXMLBSTGAME-26MAR182105KCTEX-KC', 'KXMLBSTGAME-26MAR181610CINLAA-LAA', 'KXMLBSTGAME-26MAR181610CINLAA-CIN', 'KXMLBSTGAME-26MAR181605SFLAD-SF', 'KXMLBSTGAME-26MAR181605SFLAD-LAD', 'KXMLBSTGAME-26MAR181305BOSNYY-NYY', 'KXMLBSTGAME-26MAR181305BOSNYY-BOS', 'KXMLBSTGAME-26MAR181305PHIATL-PHI', 'KXMLBSTGAME-26MAR181305PHIATL-ATL', 'KXMLBSTGAME-26MAR181805MIAWSH-WSH', 'KXMLBSTGAME-26MAR181805MIAWSH-MIA', 'KXMLBSTGAME-26MAR181605COLCIN-COL', 'KXMLBSTGAME-26MAR181605COLCIN-CIN', 'KXMLBSTGAME-26MAR181305HOUSTL-STL', 'KXMLBSTGAME-26MAR181305HOUSTL-HOU', 'KXMLBSTGAME-26MAR181610LAAMIL-MIL', 'KXMLBSTGAME-26MAR181610LAAMIL-LAA', 'KXMLBSTGAME-26MAR181307BALTOR-TOR', 'KXMLBSTGAME-26MAR181307BALTOR-BAL', 'KXMLBSTGAME-26MAR181610CHCAZ-CHC', 'KXMLBSTGAME-26MAR181610CHCAZ-AZ', 'KXMLBSTGAME-26MAR181805DETPIT-PIT', 'KXMLBSTGAME-26MAR181805DETPIT-DET']
+[WS] Subscribed to trade + orderbook_delta for ['KXNCAAMBGAME-26MAR18GWUVU-UVU', 'KXNCAAMBGAME-26MAR18GWUVU-GW', 'KXNCAAMBGAME-26MAR18JOESCSU-JOES', 'KXNCAAMBGAME-26MAR18JOESCSU-CSU', 'KXNCAAMBGAME-26MAR18UICCAL-UIC', 'KXNCAAMBGAME-26MAR18UICCAL-CAL', 'KXNCAAMBGAME-26MAR18SHSUUNM-UNM', 'KXNCAAMBGAME-26MAR18SHSUUNM-SHSU', 'KXNCAAMBGAME-26MAR18MURRNEV-NEV', 'KXNCAAMBGAME-26MAR18MURRNEV-MURR', 'KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE', 'KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY', 'KXNCAAMBGAME-26MAR18KENTILST-KENT', 'KXNCAAMBGAME-26MAR18KENTILST-ILST', 'KXNCAAMBGAME-26MAR18DAYBRAD-DAY', 'KXNCAAMBGAME-26MAR18DAYBRAD-BRAD', 'KXNCAAMBGAME-26MAR18MOHSMU-SMU', 'KXNCAAMBGAME-26MAR18MOHSMU-MOH', 'KXNCAAMBGAME-26MAR18PVLEH-PV', 'KXNCAAMBGAME-26MAR18PVLEH-LEH', 'KXNCAAWBGAME-26MAR18NEBRICH-RICH', 'KXNCAAWBGAME-26MAR18NEBRICH-NEB', 'KXNCAAWBGAME-26MAR18SFAMOSU-SFA', 'KXNCAAWBGAME-26MAR18SFAMOSU-MOSU', 'KXNBAGAME-26MAR18LALHOU-LAL', 'KXNBAGAME-26MAR18LALHOU-HOU', 'KXNBAGAME-26MAR18LACNOP-NOP', 'KXNBAGAME-26MAR18LACNOP-LAC', 'KXNBAGAME-26MAR18DENMEM-MEM', 'KXNBAGAME-26MAR18DENMEM-DEN', 'KXNBAGAME-26MAR18ATLDAL-DAL', 'KXNBAGAME-26MAR18ATLDAL-ATL', 'KXNBAGAME-26MAR18PORIND-POR', 'KXNBAGAME-26MAR18PORIND-IND', 'KXNBAGAME-26MAR18UTAMIN-UTA', 'KXNBAGAME-26MAR18UTAMIN-MIN', 'KXNBAGAME-26MAR18OKCBKN-OKC', 'KXNBAGAME-26MAR18OKCBKN-BKN', 'KXNBAGAME-26MAR18TORCHI-TOR', 'KXNBAGAME-26MAR18TORCHI-CHI', 'KXNBAGAME-26MAR18GSWBOS-GSW', 'KXNBAGAME-26MAR18GSWBOS-BOS', 'KXUCLGAME-26MAR18BMUATA-TIE', 'KXUCLGAME-26MAR18BMUATA-BMU', 'KXUCLGAME-26MAR18BMUATA-ATA', 'KXUCLGAME-26MAR18TOTATM-TOT', 'KXUCLGAME-26MAR18TOTATM-TIE', 'KXUCLGAME-26MAR18TOTATM-ATM', 'KXUCLGAME-26MAR18LFCGAL-TIE', 'KXUCLGAME-26MAR18LFCGAL-LFC', 'KXUCLGAME-26MAR18LFCGAL-GAL', 'KXUCLGAME-26MAR18BARNEW-TIE', 'KXUCLGAME-26MAR18BARNEW-NEW', 'KXUCLGAME-26MAR18BARNEW-BAR', 'KXLIGAMXGAME-26MAR18CDGLEO-TIE', 'KXLIGAMXGAME-26MAR18CDGLEO-LEO', 'KXLIGAMXGAME-26MAR18CDGLEO-CDG', 'KXMLBSTGAME-26MAR181610MILSEA-SEA', 'KXMLBSTGAME-26MAR181610MILSEA-MIL', 'KXMLBSTGAME-26MAR182105KCTEX-TEX', 'KXMLBSTGAME-26MAR182105KCTEX-KC', 'KXMLBSTGAME-26MAR181610CINLAA-LAA', 'KXMLBSTGAME-26MAR181610CINLAA-CIN', 'KXMLBSTGAME-26MAR181605SFLAD-SF', 'KXMLBSTGAME-26MAR181605SFLAD-LAD', 'KXMLBSTGAME-26MAR181305BOSNYY-NYY', 'KXMLBSTGAME-26MAR181305BOSNYY-BOS', 'KXMLBSTGAME-26MAR181305PHIATL-PHI', 'KXMLBSTGAME-26MAR181305PHIATL-ATL', 'KXMLBSTGAME-26MAR181805MIAWSH-WSH', 'KXMLBSTGAME-26MAR181805MIAWSH-MIA', 'KXMLBSTGAME-26MAR181605COLCIN-COL', 'KXMLBSTGAME-26MAR181605COLCIN-CIN', 'KXMLBSTGAME-26MAR181305HOUSTL-STL', 'KXMLBSTGAME-26MAR181305HOUSTL-HOU', 'KXMLBSTGAME-26MAR181610LAAMIL-MIL', 'KXMLBSTGAME-26MAR181610LAAMIL-LAA', 'KXMLBSTGAME-26MAR181307BALTOR-TOR', 'KXMLBSTGAME-26MAR181307BALTOR-BAL', 'KXMLBSTGAME-26MAR181610CHCAZ-CHC', 'KXMLBSTGAME-26MAR181610CHCAZ-AZ', 'KXMLBSTGAME-26MAR181805DETPIT-PIT', 'KXMLBSTGAME-26MAR181805DETPIT-DET']
+[KXLIGAMXGAME-26MAR18CDGLEO-CDG] Snapshot applied — 0 bid levels, 0 ask levels
+[KXLIGAMXGAME-26MAR18CDGLEO-LEO] Snapshot applied — 0 bid levels, 0 ask levels
+[KXLIGAMXGAME-26MAR18CDGLEO-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305BOSNYY-BOS] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305BOSNYY-NYY] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305HOUSTL-HOU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305HOUSTL-STL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305PHIATL-ATL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181305PHIATL-PHI] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181307BALTOR-BAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181307BALTOR-TOR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605COLCIN-CIN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605COLCIN-COL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605SFLAD-LAD] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181605SFLAD-SF] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CHCAZ-AZ] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CHCAZ-CHC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CINLAA-CIN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610CINLAA-LAA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610LAAMIL-LAA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610LAAMIL-MIL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610MILSEA-MIL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181610MILSEA-SEA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805DETPIT-DET] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805DETPIT-PIT] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805MIAWSH-MIA] Snapshot applied — 6 bid levels, 27 ask levels
+[KXMLBSTGAME-26MAR181805MIAWSH-WSH] Snapshot applied — 6 bid levels, 32 ask levels
+[KXMLBSTGAME-26MAR182105KCTEX-KC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR182105KCTEX-TEX] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18ATLDAL-ATL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18ATLDAL-DAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18DENMEM-DEN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18DENMEM-MEM] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18GSWBOS-BOS] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18GSWBOS-GSW] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LACNOP-LAC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LACNOP-NOP] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LALHOU-HOU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18LALHOU-LAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18OKCBKN-BKN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18OKCBKN-OKC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18PORIND-IND] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18PORIND-POR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18TORCHI-CHI] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18TORCHI-TOR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18UTAMIN-MIN] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNBAGAME-26MAR18UTAMIN-UTA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18DAYBRAD-BRAD] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18DAYBRAD-DAY] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18GWUVU-GW] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18GWUVU-UVU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18JOESCSU-CSU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18JOESCSU-JOES] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18KENTILST-ILST] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18KENTILST-KENT] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MOHSMU-MOH] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MOHSMU-SMU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MURRNEV-MURR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18MURRNEV-NEV] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18PVLEH-LEH] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18PVLEH-PV] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18SHSUUNM-SHSU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18SHSUUNM-UNM] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18UICCAL-CAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAMBGAME-26MAR18UICCAL-UIC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18NEBRICH-NEB] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18NEBRICH-RICH] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18SFAMOSU-MOSU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXNCAAWBGAME-26MAR18SFAMOSU-SFA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BARNEW-BAR] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BARNEW-NEW] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BARNEW-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BMUATA-ATA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BMUATA-BMU] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18BMUATA-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18LFCGAL-GAL] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18LFCGAL-LFC] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18LFCGAL-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18TOTATM-ATM] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18TOTATM-TIE] Snapshot applied — 0 bid levels, 0 ask levels
+[KXUCLGAME-26MAR18TOTATM-TOT] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805MIAWSH-WSH] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805MIAWSH-MIA] Snapshot applied — 0 bid levels, 0 ask levels
+[KXMLBSTGAME-26MAR181805MIAWSH-WSH] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181805MIAWSH-WSH] Ticker task complete.
+[KXMLBSTGAME-26MAR181805MIAWSH-MIA] Exiting: order book is empty (market closed/settled).
+[KXMLBSTGAME-26MAR181805MIAWSH-MIA] Ticker task complete.
+[WS] Task cancelled.
+All done. Exiting.
+RUN THIS: 
+************
+ /Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python /Users/michael/Projects/Kalshi-Trader-Directional/new_data_aggregator.py KXNCAAMBGAME-26MAR18GWUVU-UVU:1773877500 KXNCAAMBGAME-26MAR18GWUVU-GW:1773877500 KXNCAAMBGAME-26MAR18JOESCSU-JOES:1773888300 KXNCAAMBGAME-26MAR18JOESCSU-CSU:1773888300 KXNCAAMBGAME-26MAR18UICCAL-UIC:1773888300 KXNCAAMBGAME-26MAR18UICCAL-CAL:1773888300 KXNCAAMBGAME-26MAR18SHSUUNM-UNM:1773881100 KXNCAAMBGAME-26MAR18SHSUUNM-SHSU:1773881100 KXNCAAMBGAME-26MAR18MURRNEV-NEV:1773884700 KXNCAAMBGAME-26MAR18MURRNEV-MURR:1773884700 KXNCAAMBGAME-26MAR18NAVYWAKE-WAKE:1773873900 KXNCAAMBGAME-26MAR18NAVYWAKE-NAVY:1773873900 KXNCAAMBGAME-26MAR18KENTILST-KENT:1773877500 KXNCAAMBGAME-26MAR18KENTILST-ILST:1773877500 KXNCAAMBGAME-26MAR18DAYBRAD-DAY:1773881100 KXNCAAMBGAME-26MAR18DAYBRAD-BRAD:1773881100 KXNCAAMBGAME-26MAR18MOHSMU-SMU:1773852300 KXNCAAMBGAME-26MAR18MOHSMU-MOH:1773852300 KXNCAAMBGAME-26MAR18PVLEH-PV:1773852300 KXNCAAMBGAME-26MAR18PVLEH-LEH:1773852300 KXNCAAWBGAME-26MAR18NEBRICH-RICH:1773852300 KXNCAAWBGAME-26MAR18NEBRICH-NEB:1773852300 KXNCAAWBGAME-26MAR18SFAMOSU-SFA:1773852300 KXNCAAWBGAME-26MAR18SFAMOSU-MOSU:1773852300 KXNBAGAME-26MAR18LALHOU-LAL:1773882900 KXNBAGAME-26MAR18LALHOU-HOU:1773882900 KXNBAGAME-26MAR18LACNOP-NOP:1773877500 KXNBAGAME-26MAR18LACNOP-LAC:1773877500 KXNBAGAME-26MAR18DENMEM-MEM:1773879300 KXNBAGAME-26MAR18DENMEM-DEN:1773879300 KXNBAGAME-26MAR18ATLDAL-DAL:1773879300 KXNBAGAME-26MAR18ATLDAL-ATL:1773879300 KXNBAGAME-26MAR18PORIND-POR:1773875700 KXNBAGAME-26MAR18PORIND-IND:1773875700 KXNBAGAME-26MAR18UTAMIN-UTA:1773877500 KXNBAGAME-26MAR18UTAMIN-MIN:1773877500 KXNBAGAME-26MAR18OKCBKN-OKC:1773875700 KXNBAGAME-26MAR18OKCBKN-BKN:1773875700 KXNBAGAME-26MAR18TORCHI-TOR:1773877500 KXNBAGAME-26MAR18TORCHI-CHI:1773877500 KXNBAGAME-26MAR18GSWBOS-GSW:1773873900 KXNBAGAME-26MAR18GSWBOS-BOS:1773873900 KXUCLGAME-26MAR18BMUATA-TIE:1773863100 KXUCLGAME-26MAR18BMUATA-BMU:1773863100 KXUCLGAME-26MAR18BMUATA-ATA:1773863100 KXUCLGAME-26MAR18TOTATM-TOT:1773863100 KXUCLGAME-26MAR18TOTATM-TIE:1773863100 KXUCLGAME-26MAR18TOTATM-ATM:1773863100 KXUCLGAME-26MAR18LFCGAL-TIE:1773863100 KXUCLGAME-26MAR18LFCGAL-LFC:1773863100 KXUCLGAME-26MAR18LFCGAL-GAL:1773863100 KXUCLGAME-26MAR18BARNEW-TIE:1773855000 KXUCLGAME-26MAR18BARNEW-NEW:1773855000 KXUCLGAME-26MAR18BARNEW-BAR:1773855000 KXLIGAMXGAME-26MAR18CDGLEO-TIE:1773885120 KXLIGAMXGAME-26MAR18CDGLEO-LEO:1773885120 KXLIGAMXGAME-26MAR18CDGLEO-CDG:1773885120 KXMLBSTGAME-26MAR181610MILSEA-SEA:1773863700 KXMLBSTGAME-26MAR181610MILSEA-MIL:1773863700 KXMLBSTGAME-26MAR182105KCTEX-TEX:1773881400 KXMLBSTGAME-26MAR182105KCTEX-KC:1773881400 KXMLBSTGAME-26MAR181610CINLAA-LAA:1773863700 KXMLBSTGAME-26MAR181610CINLAA-CIN:1773863700 KXMLBSTGAME-26MAR181605SFLAD-SF:1773863400 KXMLBSTGAME-26MAR181605SFLAD-LAD:1773863400 KXMLBSTGAME-26MAR181305BOSNYY-NYY:1773852600 KXMLBSTGAME-26MAR181305BOSNYY-BOS:1773852600 KXMLBSTGAME-26MAR181305PHIATL-PHI:1773852600 KXMLBSTGAME-26MAR181305PHIATL-ATL:1773852600 KXMLBSTGAME-26MAR181805MIAWSH-WSH:1773870600 KXMLBSTGAME-26MAR181805MIAWSH-MIA:1773870600 KXMLBSTGAME-26MAR181605COLCIN-COL:1773863400 KXMLBSTGAME-26MAR181605COLCIN-CIN:1773863400 KXMLBSTGAME-26MAR181305HOUSTL-STL:1773852600 KXMLBSTGAME-26MAR181305HOUSTL-HOU:1773852600 KXMLBSTGAME-26MAR181610LAAMIL-MIL:1773863700 KXMLBSTGAME-26MAR181610LAAMIL-LAA:1773863700 KXMLBSTGAME-26MAR181307BALTOR-TOR:1773852720 KXMLBSTGAME-26MAR181307BALTOR-BAL:1773852720 KXMLBSTGAME-26MAR181610CHCAZ-CHC:1773863700 KXMLBSTGAME-26MAR181610CHCAZ-AZ:1773863700 KXMLBSTGAME-26MAR181805DETPIT-PIT:1773870600 KXMLBSTGAME-26MAR181805DETPIT-DET:1773870600
+************
+
+Launching aggregator...
