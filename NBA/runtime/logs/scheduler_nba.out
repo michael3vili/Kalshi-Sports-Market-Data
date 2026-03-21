@@ -2093,3 +2093,35 @@ LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '
 LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR19PHISAC-SAC']
 LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR19PHISAC-PHI']
 SCHEDULER STOPPED @ 2026-03-19 22:30:00.182280
+Starting scheduler at 2026-03-20 13:05:06.893884+00:00 UTC
+getting markets... (attempt 1/6)
+markets found
+
+CURRENT TIME: 2026-03-20 06:05:07.296163
+=== SCHEDULED JOBS ===
+KXNBAGAME-26MAR20BOSMEM-MEM | 2026-03-20 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20BOSMEM-MEM',)
+KXNBAGAME-26MAR20BOSMEM-BOS | 2026-03-20 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20BOSMEM-BOS',)
+KXNBAGAME-26MAR20TORDEN-TOR | 2026-03-21 00:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20TORDEN-TOR',)
+KXNBAGAME-26MAR20TORDEN-DEN | 2026-03-21 00:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20TORDEN-DEN',)
+KXNBAGAME-26MAR20ATLHOU-HOU | 2026-03-20 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20ATLHOU-HOU',)
+KXNBAGAME-26MAR20ATLHOU-ATL | 2026-03-20 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20ATLHOU-ATL',)
+KXNBAGAME-26MAR20PORMIN-POR | 2026-03-20 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20PORMIN-POR',)
+KXNBAGAME-26MAR20PORMIN-MIN | 2026-03-20 23:45:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20PORMIN-MIN',)
+KXNBAGAME-26MAR20NYKBKN-NYK | 2026-03-20 23:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20NYKBKN-NYK',)
+KXNBAGAME-26MAR20NYKBKN-BKN | 2026-03-20 23:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20NYKBKN-BKN',)
+KXNBAGAME-26MAR20GSWDET-GSW | 2026-03-20 23:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20GSWDET-GSW',)
+KXNBAGAME-26MAR20GSWDET-DET | 2026-03-20 23:15:00+00:00 |__main__:run_script | ('KXNBAGAME-26MAR20GSWDET-DET',)
+c993e3df91984294bcad67d98823ab7a | 2026-03-21 04:30:00+00:00 |__main__:stop_scheduler | ()
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20GSWDET-DET']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20GSWDET-GSW']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20NYKBKN-BKN']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20NYKBKN-NYK']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20ATLHOU-ATL']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20ATLHOU-HOU']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20BOSMEM-BOS']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20BOSMEM-MEM']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20PORMIN-MIN']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20PORMIN-POR']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20TORDEN-DEN']
+LAUNCH: ['/Users/michael/Projects/Kalshi-Trader-Directional/.venv/bin/python', '/Users/michael/Projects/Kalshi-Trader-Directional/data_aggregator_live.py', 'KXNBAGAME-26MAR20TORDEN-TOR']
+SCHEDULER STOPPED @ 2026-03-20 21:30:00.055412
