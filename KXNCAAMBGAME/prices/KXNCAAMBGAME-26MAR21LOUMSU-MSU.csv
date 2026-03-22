@@ -1,0 +1,12 @@
+ts,price_yes,price_no,3sec_norm_OFI,3sec_yes_vol,3sec_no_vol,3sec_total_vol,3sec_note,5sec_norm_OFI,5sec_yes_vol,5sec_no_vol,5sec_total_vol,5sec_note,30sec_norm_OFI,30sec_yes_vol,30sec_no_vol,30sec_total_vol,30sec_note,1sec_yes_vol,1sec_no_vol,1sec_total_vol,60sec_yes_vol,60sec_no_vol,60sec_total_vol,ask_total_depth,bid_total_depth,depth_imbalance,ask_depth_change_3s,ask_depth_change_10s,ask_levels,bid_levels,best_ask,best_bid,spread
+1774110599,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110600,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110601,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110602,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110603,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110604,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110605,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110606,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110607,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110608,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
+1774110609,65,34,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,low_activity,0,0,0,0,0,0,8020638,5641763,-0.1741,0,0,33,61,66,65,1
