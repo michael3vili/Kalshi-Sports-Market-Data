@@ -1,0 +1,12 @@
+ts,price_yes,price_no,3sec_norm_OFI,3sec_yes_vol,3sec_no_vol,3sec_total_vol,3sec_note,5sec_norm_OFI,5sec_yes_vol,5sec_no_vol,5sec_total_vol,5sec_note,30sec_norm_OFI,30sec_yes_vol,30sec_no_vol,30sec_total_vol,30sec_note,1sec_yes_vol,1sec_no_vol,1sec_total_vol,60sec_yes_vol,60sec_no_vol,60sec_total_vol,ask_total_depth,bid_total_depth,depth_imbalance,ask_depth_change_3s,ask_depth_change_10s,ask_levels,bid_levels,best_ask,best_bid,spread
+1774200599,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200600,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200601,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200602,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200603,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200604,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200605,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200606,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200607,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200608,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
+1774200609,38,59,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,no_volume,0,0,0,0,0,0,629120,305311,-0.3465,0,0,35,27,41,38,3
