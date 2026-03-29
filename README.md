@@ -1,4 +1,4 @@
-# Kalshi Market Data
+# Kalshi Sports Market Data
 
 Real-time market microstructure data collected from [Kalshi](https://kalshi.com) sports prediction markets via the Kalshi WebSocket API. Data is collected at **1-second granularity** and includes prices, normalized order flow imbalance (OFI), full order book depth, and raw trade feed.
 
@@ -28,7 +28,7 @@ Real-time market microstructure data collected from [Kalshi](https://kalshi.com)
 ## Repository Structure
 
 ```
-Kalshi-Market-Data/
+Kalshi-Sports-Market-Data/
 └── {SERIES_TICKER}/
     ├── prices/
     │   └── {TICKER}.csv
